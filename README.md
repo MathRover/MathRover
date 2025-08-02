@@ -4,5 +4,5 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MathRover&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 <div>
-    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=html5&logoColor=white" alt="">
+    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="">
 </div>
