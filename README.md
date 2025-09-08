@@ -1,5 +1,5 @@
 <!-- Introdução -->
-<h1 align="center">👋 Olá, eu sou MathRover!</h1>
+<h1 align="center">👋 Olá, eu sou Matheus Rover! Bem vindo ao meu perfil</h1>
 <h3 align="center">
   <img src="https://img.shields.io/badge/Estudante-Engenharia%20de%20Software-blue?style=for-the-badge&logo=readme" />
   <img src="https://img.shields.io/badge/Entusiasta-IA%20%26%20Tech-green?style=for-the-badge&logo=python" />
