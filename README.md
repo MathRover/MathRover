@@ -10,12 +10,6 @@
 <!-- Stack + Contatos + GitHub Stats -->
 <div align="center">
 
-  <!-- Linguagens -->
-  <img alt="Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img alt="C" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <img alt="HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-
-  <br><br>
 
   <!-- Contatos -->
   <a href="https://www.linkedin.com/in/matheus-rover-300710352" target="_blank">
@@ -27,6 +21,12 @@
   <a href="https://www.instagram.com/math.rover" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
+
+  <br><br>
+
+  <img alt="Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img alt="C" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+  <img alt="HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 
   <br><br>
 
