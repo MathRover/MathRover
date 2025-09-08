@@ -1,4 +1,4 @@
-## Oiii, eu sou o MathRover, estudante de Engenharia de Software e entusiasta de programação e tecnologia!  
+## Olá, eu sou o MathRover, estudante de Engenharia de Software e entusiasta de programação e tecnologia!  
 
 <br>
 
@@ -7,10 +7,6 @@
   <img alt="MathRover-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img alt="MathRover-C" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img alt="MathRover-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img alt="MathRover-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img alt="MathRover-JavaScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img alt="MathRover-CSharp" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img alt="MathRover-Java" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 </div>
 
 <br>
