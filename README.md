@@ -9,11 +9,11 @@
 
 <!-- Badges de informação centralizadas -->
 <h3 align="center" style="margin-bottom: 30px;">
-  <img src="https://img.shields.io/badge/Estudante-Engenharia%20de%20Software-blue?style=for-the-badge&logo=readme" />
-  <img src="https://img.shields.io/badge/Entusiasta-IA%20%26%20Tech-green?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/Estudante-Engenharia%20de%20Software-red?style=for-the-badge&logo=readme&logoColor=white" />
+  <img src="https://img.shields.io/badge/Entusiasta-IA%20%26%20Tech-red?style=for-the-badge&logo=python&logoColor=white" />
 </h3>
 
-<!-- Contatos centralizados -->
+<!-- Contatos centralizados, cores padrão -->
 <div align="center" style="margin-bottom: 30px;">
   <a href="https://www.linkedin.com/in/matheus-rover-300710352" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
