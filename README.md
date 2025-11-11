@@ -25,19 +25,17 @@
   <img alt="CSS" height="50" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
-<!-- GitHub Stats + Nota na mesma linha -->
-<div align="center" style="margin-bottom: 60px; display: flex; justify-content: center; gap: 30px; flex-wrap: wrap;">
+<!-- GitHub Stats + Nota -->
+<div align="center" style="margin-bottom: 60px; display: flex; justify-content: center; gap: 40px; flex-wrap: wrap;">
 
-  <!-- Commits + nota -->
-  <div style="text-align:center;">
-    <img src="https://github-readme-stats.vercel.app/api?username=MathRover&show_icons=true&bg_color=000000&title_color=ff0000&text_color=ffffff&icon_color=ff0000&border_color=ff0000"
+  <!-- Commits, PRs, Issues, Contribuições + nota -->
+  <div style="display: flex; flex-direction: column; align-items: center; gap: 15px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=MathRover&show_icons=true&bg_color=000000&title_color=ff0000&text_color=ffffff&icon_color=ff0000&count_private=true&include_all_commits=true&border_color=ff0000"
          style="border-radius: 10px; box-shadow: 0 4px 20px rgba(255,0,0,0.5);"/>
-    <div style="color:#cccccc; font-size:16px; margin-top:10px;">
-    </div>
   </div>
 
   <!-- Top Languages -->
-  <div>
+  <div style="display: flex; flex-direction: column; align-items: center; gap: 15px;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MathRover&layout=compact&bg_color=000000&title_color=ff0000&text_color=ffffff&border_color=ff0000"
          style="border-radius: 10px; box-shadow: 0 4px 20px rgba(255,0,0,0.5);"/>
   </div>
