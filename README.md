@@ -26,13 +26,13 @@
 </div>
 
 <!-- GitHub Stats + Top Languages lado a lado -->
-<div style="display: flex; justify-content: center; gap: 40px; flex-wrap: nowrap; margin-bottom: 60px;">
+<div style="display: flex; justify-content: center; gap: 30px; flex-wrap: nowrap; margin-bottom: 60px;">
 
   <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=MathRover&show_icons=true&bg_color=000000&title_color=ff0000&text_color=ffffff&icon_color=ff0000&count_private=true&include_all_commits=true&border_color=ff0000"
-       style="border-radius: 10px; box-shadow: 0 4px 20px rgba(255,0,0,0.5);"/>
+       style="border-radius: 10px; box-shadow: 0 4px 20px rgba(255,0,0,0.5); max-width: 400px; width: 100%;"/>
 
   <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MathRover&layout=compact&bg_color=000000&title_color=ff0000&text_color=ffffff&border_color=ff0000"
-       style="border-radius: 10px; box-shadow: 0 4px 20px rgba(255,0,0,0.5);"/>
+       style="border-radius: 10px; box-shadow: 0 4px 20px rgba(255,0,0,0.5); max-width: 250px; width: 100%;"/>
 </div>
