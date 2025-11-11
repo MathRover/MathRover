@@ -33,15 +33,11 @@
 <div align="center" style="margin-bottom: 80px; display: flex; justify-content: center; gap: 40px; flex-wrap: wrap;">
 
 <!-- GitHub Stats -->
-
-
-    <img src="https://github-readme-stats.vercel.app/api?username=MathRover&show_icons=true&bg_color=000000&title_color=ff0000&text_color=ffffff&icon_color=ff0000&count_private=true&include_all_commits=true&border_color=ff0000"
+ <img src="https://github-readme-stats.vercel.app/api?username=MathRover&show_icons=true&bg_color=000000&title_color=ff0000&text_color=ffffff&icon_color=ff0000&count_private=true&include_all_commits=true&border_color=ff0000"
          style="border-radius: 10px; box-shadow: 0 4px 20px rgba(255,0,0,0.5);"/>
 
 <!-- Top Languages / Nota -->
-
-
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MathRover&layout=compact&bg_color=000000&title_color=ff0000&text_color=ffffff&border_color=ff0000"
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MathRover&layout=compact&bg_color=000000&title_color=ff0000&text_color=ffffff&border_color=ff0000"
          style="border-radius: 10px; box-shadow: 0 4px 20px rgba(255,0,0,0.5);"/>
 
 </div>
