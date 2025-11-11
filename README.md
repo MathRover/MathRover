@@ -39,9 +39,3 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MathRover&layout=compact&langs_count=8&bg_color=000000&title_color=ff0000&text_color=ffffff&border_color=ff0000"/>
   </a>
 </div>
-
-
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MathRover&layout=compact&bg_color=000000&title_color=ff0000&text_color=ffffff&border_color=ff0000"
-       style="border-radius:15px; box-shadow:0 8px 25px rgba(255,0,0,0.6); width:400px; height:auto;"/>
-</div>
