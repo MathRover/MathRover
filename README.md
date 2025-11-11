@@ -5,6 +5,12 @@
 </div>
 <br>
 
+<!-- Introdução -->
+<h1 align="center" style="color:#ff0000; margin-bottom: 60px;">
+  👋 Olá, eu sou Matheus Rover! Bem-vindo ao meu perfil!
+</h1>
+<br>
+
 <!-- Contatos -->
 <div align="center" style="display: flex; justify-content: center; gap: 35px; flex-wrap: wrap; margin-bottom: 80px;">
   <a href="https://www.linkedin.com/in/matheus-rover-300710352" target="_blank">
