@@ -1,14 +1,20 @@
-<!-- Introdução -->
-<h1 align="center" style="color:#ff0000;">👋 Olá, eu sou Matheus Rover! Bem-vindo ao meu perfil!</h1>
+<!-- 🔥 SLAMMING DEATH METAL EDITION 🔥 -->
+<div align="center" style="background: url('https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif') center/cover; padding: 60px; border-radius: 12px;">
+  <h1 style="color:#ff0000; font-size: 40px;">👋 Olá, eu sou Matheus Rover!</h1>
+  <h3 style="color:white;">Bem-vindo ao meu perfil!</h3>
+</div>
+
+<br>
+
 <h3 align="center">
   <img src="https://img.shields.io/badge/Estudante-Engenharia%20de%20Software-000000?style=for-the-badge&logo=readme&logoColor=white" />
-  <img src="https://img.shields.io/badge/Entusiasta-IA%20%26%20Tech-000000?style=for-the-badge&logo=python&logoColor=#ff0000" />
+  <img src="https://img.shields.io/badge/Entusiasta-IA%20%26%20Tech-000000?style=for-the-badge&logo=python&logoColor=ff0000" />
 </h3>
 
 <br>
 
 <!-- Stack + Contatos + GitHub Stats -->
-<div align="center" style="background-color:#000000; color:white;">
+<div align="center" style="background-color:#000000; color:white; padding: 20px; border-radius: 12px;">
 
   <!-- Contatos -->
   <a href="https://www.linkedin.com/in/matheus-rover-300710352" target="_blank">
@@ -23,6 +29,7 @@
 
   <br><br>
 
+  <!-- Ícones das linguagens -->
   <img alt="Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img alt="C" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img alt="HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -36,32 +43,23 @@
       <td>
         <picture>
           <source
-            srcset="https://github-readme-stats.vercel.app/api?username=MathRover&show_icons=true&theme=dark&title_color=ff0000&text_color=ffffff&icon_color=ff0000&bg_color=000000"
+            srcset="https://github-readme-stats.vercel.app/api?username=MathRover&show_icons=true&title_color=ff0000&text_color=ffffff&icon_color=ff0000&bg_color=000000&hide_border=true"
             media="(prefers-color-scheme: dark)"
           />
-          <source
-            srcset="https://github-readme-stats.vercel.app/api?username=MathRover&show_icons=true&theme=dark&title_color=ff0000&text_color=ffffff&icon_color=ff0000&bg_color=000000"
-            media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-          />
-          <img src="https://github-readme-stats.vercel.app/api?username=MathRover&show_icons=true&theme=dark&title_color=ff0000&text_color=ffffff&icon_color=ff0000&bg_color=000000" />
+          <img src="https://github-readme-stats.vercel.app/api?username=MathRover&show_icons=true&title_color=ff0000&text_color=ffffff&icon_color=ff0000&bg_color=000000&hide_border=true" />
         </picture>
       </td>
       <td>
         <picture>
           <source
-            srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=MathRover&layout=compact&theme=dark&title_color=ff0000&text_color=ffffff&bg_color=000000"
+            srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=MathRover&layout=compact&title_color=ff0000&text_color=ffffff&bg_color=000000&hide_border=true"
             media="(prefers-color-scheme: dark)"
           />
-          <source
-            srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=MathRover&layout=compact&theme=dark&title_color=ff0000&text_color=ffffff&bg_color=000000"
-            media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-          />
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MathRover&layout=compact&theme=dark&title_color=ff0000&text_color=ffffff&bg_color=000000" />
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MathRover&layout=compact&title_color=ff0000&text_color=ffffff&bg_color=000000&hide_border=true" />
         </picture>
       </td>
     </tr>
   </table>
-
 </div>
 
 <br>
@@ -72,3 +70,10 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MathRover/MathRover/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MathRover/MathRover/output/github-contribution-grid-snake.svg">
 </picture>
+
+<br>
+
+<!-- Frase final estilo Slaughter -->
+<h3 align="center" style="color:#ff0000; font-family: monospace;">
+  💀 “Code. Lift. Repeat.” 💀
+</h3>
