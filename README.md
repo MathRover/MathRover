@@ -1,6 +1,6 @@
 <!-- Banner animado -->
 <div align="center">
-  <img src="https://giphy.com/gifs/scary-skull-skeleton-Y7Oklui6yB1uMHxfjp"
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmQ0cnVxYTJ5OXFjaWQzMnVvZTVieTZxdDF3dnl3OXRleDJ2bHpyNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Y7Oklui6yB1uMHxfjp/giphy.gif"
        width="100%"
        height="160"
        style="object-fit: cover; border-radius: 10px; display: block; margin: 0 auto;">
