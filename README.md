@@ -16,6 +16,7 @@
     <img src="https://img.shields.io/badge/-Instagram-ff0000?style=for-the-badge&logo=instagram&logoColor=white" height="42">
   </a>
 </div>
+<br>
 
 <!-- Linguagens -->
 <div align="center" style="display: flex; justify-content: center; gap: 40px; flex-wrap: wrap; margin-bottom: 80px;">
