@@ -1,7 +1,7 @@
 <!-- GIF centralizado no topo -->
 <div align="center" style="margin-bottom: 60px;">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWljeWZ5cnJpNDVsdHJqNnVpNHJvcG50MDFwNnMwczFxbHV2MTlsMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/1cvd5LahuUq2Cc6qLl/giphy.gif"
-       style="width: 60%; max-width: 400px; height: auto; border-radius: 15px; box-shadow: 0 4px 15px rgba(255,0,0,0.4);">
+       style="width: 60%; max-width: 400px; height: auto; border-radius: 15px; box-shadow: 0 4px 15px rgba(255,0,0,0.6);">
 </div>
 
 <!-- Contatos -->
@@ -25,13 +25,11 @@
   <img alt="CSS" height="50" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
+<!-- GitHub Stats centralizado estilo "Slaughter Edition" -->
+<div align="center" style="margin-bottom: 60px; display: flex; justify-content: center; gap: 40px; flex-wrap: wrap;">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MathRover&show_icons=true&bg_color=000000&title_color=ff0000&text_color=ffffff&icon_color=ff0000&count_private=true&include_all_commits=true&border_color=ff0000"
+       style="border-radius: 10px; box-shadow: 0 4px 20px rgba(255,0,0,0.5);"/>
 
-<div>
-  <a href="https://github.com/Nicolas-Vanzo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nicolas-Vanzo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nicolas-Vanzo&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
-<div>
-    </div>
-  </div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MathRover&layout=compact&langs_count=8&bg_color=000000&title_color=ff0000&text_color=ffffff&border_color=ff0000"
+       style="border-radius: 10px; box-shadow: 0 4px 20px rgba(255,0,0,0.5);"/>
 </div>
