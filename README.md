@@ -11,9 +11,6 @@
   <!-- Informações à direita -->
   <div style="flex: 1.5; min-width: 300px; text-align: left;">
 
-  <h1 style="color:#ff0000;">👋 Olá, eu sou Matheus Rover!</h1>
-  <h3 style="color:#ffffff;">Bem-vindo ao meu perfil!</h3>
-
   <p style="color:#cccccc; font-size: 16px;">
     💻 Estudante de <b>Engenharia de Software</b> <br>
     🤖 Entusiasta de <b>IA & Tecnologia</b> <br>
