@@ -1,10 +1,12 @@
 <!-- Banner animado -->
 <div align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnR3eTJoYmNlaGQ0OHRoc2IxOHZwNzNzN2Qzdm9kZDNnbWF2N3V0eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tQSRdH2K1rUXOMwWpx/giphy.gif" width="100%" height="200%" style="object-fit: cover; border-radius: 10px;">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnR3eTJoYmNlaGQ0OHRoc2IxOHZwNzNzN2Qzdm9kZDNnbWF2N3V0eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tQSRdH2K1rUXOMwWpx/giphy.gif"
+       width="100%"
+       style="max-height: 220px; object-fit: cover; border-radius: 10px;">
 </div>
 
 <!-- Introdução -->
-<h1 align="center" style="color:#ff0000;">👋 Olá, eu sou Matheus Rover! Bem-vindo ao meu perfil!</h1>
+<h1 align="center" style="color:#ff0000;">Olá, eu sou Matheus Rover! Bem-vindo ao meu perfil!</h1>
 <h3 align="center" style="color:#ffffff;">
   <img src="https://img.shields.io/badge/Estudante-Engenharia%20de%20Software-ff0000?style=for-the-badge&logo=readme" />
   <img src="https://img.shields.io/badge/Entusiasta-IA%20%26%20Tech-black?style=for-the-badge&logo=python&logoColor=ff0000" />
@@ -80,5 +82,3 @@
 </picture>
 
 <br>
-
-<h3 align="center" style="color:#ff0000;">💀 "Break the bones, break the code." 💀</h3>
