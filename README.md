@@ -3,14 +3,6 @@
        style="display:block; margin:auto; width:80%; max-width:800px; height:auto; border-radius:15px; box-shadow:0 8px 25px rgba(255,0,0,0.6);">
 </div>
 
-<!-- Introdução -->
-<h3 align="center">
-  <img src="https://img.shields.io/badge/Estudante-Engenharia%20de%20Software-black?style=for-the-badge&logo=readme&logoColor=ff0000" height="42"/>
-  <img src="https://img.shields.io/badge/Entusiasta-IA%20%26%20Tech-black?style=for-the-badge&logo=python&logoColor=ff0000" height="42"/>
-</h3>
-
-<br>
-
 <!-- Contatos -->
 <div align="center" style="display: flex; justify-content: center; gap: 35px; flex-wrap: wrap; margin-bottom: 50px;">
   <a href="https://www.linkedin.com/in/matheus-rover-300710352" target="_blank">
