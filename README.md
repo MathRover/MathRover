@@ -1,5 +1,5 @@
 <!-- GIF centralizado como banner -->
-<div align="center" style="margin-bottom: 80px;">
+<div align="center" style="margin-bottom: 60px;">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHE4eHkwczNkMm1zamV2YTBocGJzMXc3eXR5d2tkaWk5c2lia3U2bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/nru6bziSyWrlj9je3A/giphy.gif"
        style="display:block; margin:auto; width:80%; max-width:800px; height:auto; border-radius:15px; box-shadow:0 8px 25px rgba(255,0,0,0.6);">
 </div>
