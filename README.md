@@ -1,5 +1,4 @@
 <!-- Introdução -->
-<h1 align="center" style="color:#ffffff;">👋 Olá, eu sou Matheus Rover! Bem vindo ao meu perfil!</h1>
 <h3 align="center">
   <img src="https://img.shields.io/badge/Estudante-Engenharia%20de%20Software-black?style=for-the-badge&logo=readme&logoColor=ff0000" />
   <img src="https://img.shields.io/badge/Entusiasta-IA%20%26%20Tech-black?style=for-the-badge&logo=python&logoColor=ff0000" />
@@ -31,15 +30,19 @@
 
   <br><br>
 
-  <!-- GitHub Stats e Top Languages lado a lado -->
-  <div style="display:flex; justify-content:center; gap:15px; flex-wrap:nowrap; margin-bottom:60px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=MathRover&show_icons=true&bg_color=000000&title_color=ff0000&text_color=ffffff&icon_color=ff0000&count_private=true&include_all_commits=true&border_color=ff0000"
-         style="border-radius:10px; box-shadow:0 4px 15px rgba(255,0,0,0.5); width:280px; height:auto;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MathRover&layout=compact&bg_color=000000&title_color=ff0000&text_color=ffffff&border_color=ff0000"
-         style="border-radius:10px; box-shadow:0 4px 15px rgba(255,0,0,0.5); width:220px; height:auto;">
-  </div>
+<!-- GitHub Stats e Top Languages lado a lado -->
+<div style="display:flex; justify-content:center; gap:15px; flex-wrap:nowrap; margin-bottom:60px;">
+
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=MathRover&show_icons=true&bg_color=000000&title_color=ff0000&text_color=ffffff&icon_color=ff0000&count_private=true&include_all_commits=true&border_color=ff0000"
+       style="border-radius:10px; box-shadow:0 4px 15px rgba(255,0,0,0.5); width:280px; height:auto;"/>
+
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MathRover&layout=compact&bg_color=000000&title_color=ff0000&text_color=ffffff&border_color=ff0000"
+       style="border-radius:10px; box-shadow:0 4px 15px rgba(255,0,0,0.5); width:280px; height:auto;"/>
 
 </div>
+
 
 <br>
 
