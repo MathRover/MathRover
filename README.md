@@ -30,8 +30,8 @@
 
   <br><br>
 
-<!-- GitHub Stats e Top Languages lado a lado -->
-<div style="display:flex; justify-content:center; gap:15px; flex-wrap:nowrap; margin-bottom:60px;">
+<!-- GitHub Stats e Top Languages lado a lado na mesma DIV -->
+<div style="display:flex; justify-content:center; gap:20px; flex-wrap:nowrap; margin-bottom:60px;">
 
   <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=MathRover&show_icons=true&bg_color=000000&title_color=ff0000&text_color=ffffff&icon_color=ff0000&count_private=true&include_all_commits=true&border_color=ff0000"
@@ -43,12 +43,3 @@
 
 </div>
 
-
-<br>
-
-<!-- GitHub Contribution Grid -->
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MathRover/MathRover/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MathRover/MathRover/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MathRover/MathRover/output/github-contribution-grid-snake.svg">
-</picture>
