@@ -4,18 +4,21 @@
        style="width: 80%; max-width: 600px; height: auto; border-radius: 10px;">
 </div>
 
-<!-- Badges de informação centralizadas -->
-<h3 align="center" style="margin-bottom: 30px;">
-  <img src="https://img.shields.io/badge/Estudante-Engenharia%20de%20Software-red?style=for-the-badge&logo=readme&logoColor=white" />
-  <img src="https://img.shields.io/badge/Entusiasta-IA%20%26%20Tech-red?style=for-the-badge&logo=python&logoColor=white" />
+<!-- Título centralizado -->
+<h1 align="center" style="color:#ff0000;">👋 Olá, eu sou Matheus Rover! Bem-vindo ao meu perfil!</h1>
+
+<!-- Badges de informação centralizadas, preto e vermelho -->
+<h3 align="center" style="margin-bottom: 40px;">
+  <img src="https://img.shields.io/badge/Estudante-Engenharia%20de%20Software-%23000000?style=for-the-badge&logo=readme&logoColor=ff0000" />
+  <img src="https://img.shields.io/badge/Entusiasta-IA%20%26%20Tech-%23000000?style=for-the-badge&logo=python&logoColor=ff0000" />
 </h3>
 
-<!-- Contatos centralizados, cores padrão -->
-<div align="center" style="margin-bottom: 30px;">
-  <a href="https://www.linkedin.com/in/matheus-rover-300710352" target="_blank">
+<!-- Contatos centralizados, separação maior -->
+<div align="center" style="margin-bottom: 40px;">
+  <a href="https://www.linkedin.com/in/matheus-rover-300710352" target="_blank" style="margin-right:10px;">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="mailto:rovermatheus@gmail.com">
+  <a href="mailto:rovermatheus@gmail.com" style="margin-right:10px;">
     <img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
   <a href="https://www.instagram.com/math.rover" target="_blank">
@@ -23,11 +26,11 @@
   </a>
 </div>
 
-<!-- Linguagens centralizadas -->
+<!-- Linguagens centralizadas, separadas -->
 <div align="center" style="margin-bottom: 40px;">
-  <img alt="Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img alt="C" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <img alt="HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img alt="Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="margin-right:15px;">
+  <img alt="C" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="margin-right:15px;">
+  <img alt="HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" style="margin-right:15px;">
   <img alt="CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
