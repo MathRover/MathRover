@@ -4,34 +4,33 @@
        style="display:block; margin:auto; width:70%; max-width:700px; height:auto; border-radius:12px; box-shadow:0 6px 20px rgba(255,0,0,0.5);">
 </div>
 
-
 <!-- Introdução -->
 <h3 align="center">
-  <img src="https://img.shields.io/badge/Estudante-Engenharia%20de%20Software-black?style=for-the-badge&logo=readme&logoColor=ff0000" height="28"/>
-  <img src="https://img.shields.io/badge/Entusiasta-IA%20%26%20Tech-black?style=for-the-badge&logo=python&logoColor=ff0000" height="28"/>
+  <img src="https://img.shields.io/badge/Estudante-Engenharia%20de%20Software-black?style=for-the-badge&logo=readme&logoColor=ff0000" height="36"/>
+  <img src="https://img.shields.io/badge/Entusiasta-IA%20%26%20Tech-black?style=for-the-badge&logo=python&logoColor=ff0000" height="36"/>
 </h3>
 
 <br>
 
 <!-- Contatos -->
-<div align="center" style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap; margin-bottom: 40px;">
+<div align="center" style="display: flex; justify-content: center; gap: 25px; flex-wrap: wrap; margin-bottom: 40px;">
   <a href="https://www.linkedin.com/in/matheus-rover-300710352" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-ff0000?style=for-the-badge&logo=linkedin&logoColor=white" height="28">
+    <img src="https://img.shields.io/badge/-LinkedIn-ff0000?style=for-the-badge&logo=linkedin&logoColor=white" height="36">
   </a>
   <a href="mailto:rovermatheus@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-black?style=for-the-badge&logo=gmail&logoColor=ff0000" height="28">
+    <img src="https://img.shields.io/badge/-Gmail-black?style=for-the-badge&logo=gmail&logoColor=ff0000" height="36">
   </a>
   <a href="https://www.instagram.com/math.rover" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-ff0000?style=for-the-badge&logo=instagram&logoColor=white" height="28">
+    <img src="https://img.shields.io/badge/-Instagram-ff0000?style=for-the-badge&logo=instagram&logoColor=white" height="36">
   </a>
 </div>
 
 <!-- Linguagens -->
-<div align="center" style="display: flex; justify-content: center; gap: 25px; flex-wrap: wrap; margin-bottom: 40px;">
-  <img alt="Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img alt="C" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <img alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+<div align="center" style="display: flex; justify-content: center; gap: 30px; flex-wrap: wrap; margin-bottom: 40px;">
+  <img alt="Python" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img alt="C" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+  <img alt="HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img alt="CSS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
 <!-- GitHub Stats e Top Languages lado a lado, maiores e centralizados -->
