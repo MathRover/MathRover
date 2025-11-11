@@ -1,6 +1,7 @@
-<div style="display: flex; justify-content: center; align-items: center; width: 100%; margin-bottom: 40px;">
+<!-- GIF centralizado como banner -->
+<div align="center" style="margin-bottom: 40px;">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWljeWZ5cnJpNDVsdHJqNnVpNHJvcG50MDFwNnMwczFxbHV2MTlsMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/1cvd5LahuUq2Cc6qLl/giphy.gif"
-       style="width: 70%; max-width: 700px; height: auto; border-radius: 12px; box-shadow: 0 6px 20px rgba(255,0,0,0.5);">
+       style="display:block; margin:auto; width:70%; max-width:700px; height:auto; border-radius:12px; box-shadow:0 6px 20px rgba(255,0,0,0.5);">
 </div>
 
 
@@ -43,10 +44,3 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MathRover&layout=compact&bg_color=000000&title_color=ff0000&text_color=ffffff&border_color=ff0000"
        style="border-radius:12px; box-shadow:0 6px 20px rgba(255,0,0,0.5); width:360px; height:auto;"/>
 </div>
-
-<!-- GitHub Contribution Grid -->
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MathRover/MathRover/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MathRover/MathRover/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MathRover/MathRover/output/github-contribution-grid-snake.svg">
-</picture>
