@@ -1,32 +1,22 @@
-<!-- Banner superior -->
-<div align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXBzOGtqNjN0enFtb3pvcmJraXZ1cnRoZG9heml5NHcwdTViZXkxNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/MGFIb56v0G8ANNCKcu/giphy.gif"
-       width="100%"
-       height="160"
-       style="object-fit: cover; border-radius: 10px; display: block; margin: 0 auto;">
-</div>
+<!-- Seção principal (GIF à esquerda + informações à direita) -->
+<div align="center" style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 40px;">
 
-<br>
-
-<!-- Container principal -->
-<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 40px; flex-wrap: wrap;">
-
-  <!-- GIF lateral (esquerda) -->
-  <div style="flex: 1; min-width: 250px;">
-    <img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif"
+  <!-- GIF à esquerda -->
+  <div style="flex: 1; min-width: 300px;">
+    <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWF5ODgxdmg1dXE0Nm1lNGg0eWg1d3M4bGV2azNzazhrOXhycTU4cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/mLIidbTICQiAFgOMnG/giphy.gif"
          width="300"
          style="border-radius: 10px; display: block; margin: 0 auto;">
   </div>
 
-  <!-- Informações (direita) -->
-  <div style="flex: 2; min-width: 300px; text-align: left;">
+  <!-- Informações à direita -->
+  <div style="flex: 1.5; min-width: 300px; text-align: left;">
 
   <h1 style="color:#ff0000;">👋 Olá, eu sou Matheus Rover!</h1>
-  <h3 style="color:white;">Bem-vindo ao meu perfil!</h3>
+  <h3 style="color:#ffffff;">Bem-vindo ao meu perfil!</h3>
 
-  <p style="color:#ccc;">
-    💻 Estudante de Engenharia de Software <br>
-    🤖 Entusiasta de IA & Tecnologia <br>
+  <p style="color:#cccccc; font-size: 16px;">
+    💻 Estudante de <b>Engenharia de Software</b> <br>
+    🤖 Entusiasta de <b>IA & Tecnologia</b> <br>
     🧠 Focado, leal e determinado — mentalidade de <b>Real G</b>
   </p>
 
