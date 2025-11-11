@@ -4,13 +4,6 @@
        style="width: 80%; max-width: 500px; height: auto; border-radius: 15px; box-shadow: 0 4px 15px rgba(255,0,0,0.4);">
 </div>
 
-<!-- Informações pessoais -->
-<div align="center" style="color:#cccccc; font-size: 18px; margin-bottom: 40px; line-height: 1.8;">
-  💻 Estudante de <b>Engenharia de Software</b> <br>
-  🤖 Entusiasta de <b>IA & Tecnologia</b> <br>
-  🧠 Focado, leal e determinado
-</div>
-
 <!-- Contatos -->
 <div align="center" style="margin-bottom: 40px; display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
   <a href="https://www.linkedin.com/in/matheus-rover-300710352" target="_blank">
