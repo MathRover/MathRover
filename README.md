@@ -1,79 +1,53 @@
-<!-- 🔥 SLAMMING DEATH METAL EDITION 🔥 -->
-<div align="center" style="background: url('https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif') center/cover; padding: 60px; border-radius: 12px;">
-  <h1 style="color:#ff0000; font-size: 40px;">👋 Olá, eu sou Matheus Rover!</h1>
-  <h3 style="color:white;">Bem-vindo ao meu perfil!</h3>
+<!-- Banner animado -->
+<div align="center">
+  <img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" width="100%" height="220" style="object-fit: cover; border-radius: 10px;">
 </div>
 
-<br>
+<!-- Introdução -->
+<h1 align="center" style="color:#ff0000; font-family: monospace;">👹 Matheus Rover</h1>
+<h3 align="center" style="color:white; font-family: monospace;">Bem-vindo ao meu portifólio</h3>
 
-<h3 align="center">
-  <img src="https://img.shields.io/badge/Estudante-Engenharia%20de%20Software-000000?style=for-the-badge&logo=readme&logoColor=white" />
-  <img src="https://img.shields.io/badge/Entusiasta-IA%20%26%20Tech-000000?style=for-the-badge&logo=python&logoColor=ff0000" />
-</h3>
+---
 
-<br>
+<!-- Sobre mim -->
+### 🩸 Sobre mim
+- 💻 Estudante de **Engenharia de Software**
+- 🧠 Focado em **Inteligência Artificial** e **programação em Python**
+- ⚙️ Crio sistemas e APIs com precisão cirúrgica
 
-<!-- Stack + Contatos + GitHub Stats -->
-<div align="center" style="background-color:#000000; color:white; padding: 20px; border-radius: 12px;">
+---
 
-  <!-- Contatos -->
-  <a href="https://www.linkedin.com/in/matheus-rover-300710352" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="mailto:rovermatheus@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://www.instagram.com/math.rover" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-  </a>
-
-  <br><br>
-
-  <!-- Ícones das linguagens -->
-  <img alt="Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img alt="C" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <img alt="HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img alt="CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-
-  <br><br>
-
-  <!-- GitHub Stats e Top Languages -->
-  <table align="center">
-    <tr>
-      <td>
-        <picture>
-          <source
-            srcset="https://github-readme-stats.vercel.app/api?username=MathRover&show_icons=true&title_color=ff0000&text_color=ffffff&icon_color=ff0000&bg_color=000000&hide_border=true"
-            media="(prefers-color-scheme: dark)"
-          />
-          <img src="https://github-readme-stats.vercel.app/api?username=MathRover&show_icons=true&title_color=ff0000&text_color=ffffff&icon_color=ff0000&bg_color=000000&hide_border=true" />
-        </picture>
-      </td>
-      <td>
-        <picture>
-          <source
-            srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=MathRover&layout=compact&title_color=ff0000&text_color=ffffff&bg_color=000000&hide_border=true"
-            media="(prefers-color-scheme: dark)"
-          />
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MathRover&layout=compact&title_color=ff0000&text_color=ffffff&bg_color=000000&hide_border=true" />
-        </picture>
-      </td>
-    </tr>
-  </table>
+<!-- Estatísticas GitHub -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MathRover&show_icons=true&bg_color=000000&title_color=ff0000&text_color=ffffff&icon_color=ff0000&border_color=ff0000&hide_border=false" alt="GitHub Stats" width="48%">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=MathRover&theme=dark&background=000000&border=ff0000&ring=ff0000&fire=ff0000&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ff0000" alt="GitHub Streak" width="48%">
 </div>
 
-<br>
+---
 
-<!-- GitHub Contribution Grid -->
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MathRover/MathRover/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MathRover/MathRover/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MathRover/MathRover/output/github-contribution-grid-snake.svg">
-</picture>
+<!-- Linguagens mais usadas -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MathRover&layout=compact&bg_color=000000&title_color=ff0000&text_color=ffffff&icon_color=ff0000&border_color=ff0000" width="60%">
+</div>
 
-<br>
+---
 
-<!-- Frase final estilo Slaughter -->
+<!-- Redes Sociais -->
+<div align="center">
+  <a href="https://www.linkedin.com/in/matheusrover" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-ff0000?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/MathRover" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/matheusrover" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-ff0000?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</div>
+
+---
+
+<!-- Mensagem final -->
 <h3 align="center" style="color:#ff0000; font-family: monospace;">
-  💀 “Code. Lift. Repeat.” 💀
+  “Break the bones, break the code.” 💀
 </h3>
