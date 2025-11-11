@@ -1,6 +1,6 @@
 <!-- Banner animado -->
 <div align="center">
-  <img src="https://giphy.com/gifs/perfect-loops-ONI1mA98XYQ2eDbWtg"
+  <img src="https://giphy.com/gifs/scary-skull-skeleton-Y7Oklui6yB1uMHxfjp"
        width="100%"
        height="160"
        style="object-fit: cover; border-radius: 10px; display: block; margin: 0 auto;">
