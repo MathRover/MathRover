@@ -4,9 +4,6 @@
        style="width: 80%; max-width: 600px; height: auto; border-radius: 10px;">
 </div>
 
-<!-- Título centralizado -->
-<h1 align="center" style="color:#ff0000;">👋 Olá, eu sou Matheus Rover! Bem-vindo ao meu perfil!</h1>
-
 <!-- Badges de informação centralizadas -->
 <h3 align="center" style="margin-bottom: 30px;">
   <img src="https://img.shields.io/badge/Estudante-Engenharia%20de%20Software-red?style=for-the-badge&logo=readme&logoColor=white" />
