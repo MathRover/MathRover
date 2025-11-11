@@ -1,10 +1,7 @@
-<!-- Seção principal (GIF à esquerda + informações à direita) -->
-<div align="center" style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 40px;">
-
  <!-- GIF à esquerda -->
 <div style="flex: 1; min-width: 300px; text-align: center;">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2h3ejBhMmNsaG5yOWxoeGUzbDhnaWwyc21pcHViaXFkc21naW1xeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zZ0bgK6w3t4NyNzZd2/giphy.gif"
-       style="width: 100%; max-width: 300px; border-radius: 10px;">
+       style="width: 100%; max-width: 350px; border-radius: 10px;">
 </div>
 
 
@@ -14,7 +11,6 @@
   <p style="color:#cccccc; font-size: 16px;">
     💻 Estudante de <b>Engenharia de Software</b> <br>
     🤖 Entusiasta de <b>IA & Tecnologia</b> <br>
-    🧠 Focado, leal e determinado — mentalidade de <b>Real G</b>
   </p>
 
   <!-- Contatos -->
@@ -43,7 +39,6 @@
 
 <br>
 
-<!-- GitHub Stats -->
 <div align="center">
   <table align="center">
     <tr>
@@ -58,10 +53,3 @@
 </div>
 
 <br>
-
-<!-- Snake dos commits -->
-<p align="center">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MathRover/MathRover/output/github-contribution-grid-snake-dark.svg">
-</p>
-
-<h3 align="center" style="color:#ff0000;">💀 "Break the bones, break the code." 💀</h3>
