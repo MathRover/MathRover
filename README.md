@@ -29,12 +29,16 @@
     <img alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   </div>
 
-  <!-- GitHub Stats e Top Languages lado a lado com mesmo tamanho -->
-  <div style="display:flex; justify-content:center; gap:20px; flex-wrap:nowrap; margin-bottom:60px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=MathRover&show_icons=true&bg_color=000000&title_color=ff0000&text_color=ffffff&icon_color=ff0000&count_private=true&include_all_commits=true&border_color=ff0000"
-         style="border-radius:10px; box-shadow:0 4px 15px rgba(255,0,0,0.5); width:280px; height:auto;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MathRover&layout=compact&bg_color=000000&title_color=ff0000&text_color=ffffff&border_color=ff0000"
-         style="border-radius:10px; box-shadow:0 4px 15px rgba(255,0,0,0.5); width:280px; height:auto;">
-  </div>
+ <!-- GitHub Stats e Top Languages lado a lado com mesmo destaque visual -->
+<div style="display:flex; justify-content:center; gap:20px; flex-wrap:nowrap; margin-bottom:60px;">
+  <!-- GitHub Stats maior -->
+  <img src="https://github-readme-stats.vercel.app/api?username=MathRover&show_icons=true&bg_color=000000&title_color=ff0000&text_color=ffffff&icon_color=ff0000&count_private=true&include_all_commits=true&border_color=ff0000"
+       style="border-radius:10px; box-shadow:0 4px 15px rgba(255,0,0,0.5); width:340px; height:auto;">
+       
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MathRover&layout=compact&bg_color=000000&title_color=ff0000&text_color=ffffff&border_color=ff0000"
+       style="border-radius:10px; box-shadow:0 4px 15px rgba(255,0,0,0.5); width:280px; height:auto;">
+</div>
+
 
 </div>
