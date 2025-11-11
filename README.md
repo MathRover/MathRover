@@ -1,4 +1,3 @@
-<!-- GIF centralizado como banner -->
 <div align="center" style="margin-bottom: 50px;">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWljeWZ5cnJpNDVsdHJqNnVpNHJvcG50MDFwNnMwczFxbHV2MTlsMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/1cvd5LahuUq2Cc6qLl/giphy.gif"
        style="display:block; margin:auto; width:80%; max-width:800px; height:auto; border-radius:15px; box-shadow:0 8px 25px rgba(255,0,0,0.6);">
@@ -33,11 +32,16 @@
   <img alt="CSS" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
-<!-- GitHub Stats e Top Languages lado a lado, grandes e destacados -->
-<div style="display:flex; justify-content:center; gap:50px; flex-wrap:nowrap; margin-bottom:70px;">
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=MathRover&show_icons=true&bg_color=000000&title_color=ff0000&text_color=ffffff&icon_color=ff0000&count_private=true&include_all_commits=true&border_color=ff0000"
-       style="border-radius:15px; box-shadow:0 8px 25px rgba(255,0,0,0.6); width:400px; height:auto;"/>
+<div align="center">
+  <a href="https://github.com/MathRover">
+    <!-- GitHub Stats -->
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MathRover&show_icons=true&bg_color=000000&title_color=ff0000&text_color=ffffff&icon_color=ff0000&count_private=true&include_all_commits=true&border_color=ff0000"/>
+    
+    <!-- Top Languages -->
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MathRover&layout=compact&langs_count=8&bg_color=000000&title_color=ff0000&text_color=ffffff&border_color=ff0000"/>
+  </a>
+</div>
+
 
   <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MathRover&layout=compact&bg_color=000000&title_color=ff0000&text_color=ffffff&border_color=ff0000"
