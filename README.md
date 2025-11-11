@@ -1,7 +1,7 @@
 <!-- GIF centralizado no topo -->
 <div align="center" style="margin-bottom: 30px;">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2h3ejBhMmNsaG5yOWxoeGUzbDhnaWwyc21pcHViaXFkc21naW1xeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zZ0bgK6w3t4NyNzZd2/giphy.gif"
-       style="width: 80%; max-width: 800px; height: auto; border-radius: 10px;">
+       style="width: 90%; max-width: 1000px; height: auto; border-radius: 10px;">
 </div>
 
 <!-- Badges de informação centralizadas, preto e vermelho -->
