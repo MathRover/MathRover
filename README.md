@@ -3,6 +3,7 @@
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWljeWZ5cnJpNDVsdHJqNnVpNHJvcG50MDFwNnMwczFxbHV2MTlsMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/1cvd5LahuUq2Cc6qLl/giphy.gif"
        style="display:block; margin:auto; width:80%; max-width:800px; height:auto; border-radius:15px; box-shadow:0 8px 25px rgba(255,0,0,0.6);">
 </div>
+<br>
 
 <!-- Contatos -->
 <div align="center" style="display: flex; justify-content: center; gap: 35px; flex-wrap: wrap; margin-bottom: 80px;">
@@ -16,6 +17,7 @@
     <img src="https://img.shields.io/badge/-Instagram-ff0000?style=for-the-badge&logo=instagram&logoColor=white" height="42">
   </a>
 </div>
+<br>
 <br>
 
 <!-- Linguagens -->
