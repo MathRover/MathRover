@@ -1,11 +1,10 @@
-<!-- GIF centralizado no topo -->
-<div style="display: flex; justify-content: center; margin-bottom: 40px;">
+<div style="display: flex; justify-content: center; align-items: center; width: 100%; margin-bottom: 40px;">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWljeWZ5cnJpNDVsdHJqNnVpNHJvcG50MDFwNnMwczFxbHV2MTlsMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/1cvd5LahuUq2Cc6qLl/giphy.gif"
-       style="width: 50%; max-width: 350px; height: auto; border-radius: 12px; box-shadow: 0 6px 20px rgba(255,0,0,0.5);">
+       style="width: 70%; max-width: 700px; height: auto; border-radius: 12px; box-shadow: 0 6px 20px rgba(255,0,0,0.5);">
 </div>
 
+
 <!-- Introdução -->
-<h1 align="center" style="color:#ffffff;">👋 Olá, eu sou Matheus Rover! Bem vindo ao meu perfil!</h1>
 <h3 align="center">
   <img src="https://img.shields.io/badge/Estudante-Engenharia%20de%20Software-black?style=for-the-badge&logo=readme&logoColor=ff0000" height="28"/>
   <img src="https://img.shields.io/badge/Entusiasta-IA%20%26%20Tech-black?style=for-the-badge&logo=python&logoColor=ff0000" height="28"/>
