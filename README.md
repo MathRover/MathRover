@@ -1,6 +1,6 @@
 <!-- GIF centralizado como banner -->
 <div align="center" style="margin-bottom: 80px;">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWljeWZ5cnJpNDVsdHJqNnVpNHJvcG50MDFwNnMwczFxbHV2MTlsMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/1cvd5LahuUq2Cc6qLl/giphy.gif"
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHE4eHkwczNkMm1zamV2YTBocGJzMXc3eXR5d2tkaWk5c2lia3U2bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/nru6bziSyWrlj9je3A/giphy.gif"
        style="display:block; margin:auto; width:80%; max-width:800px; height:auto; border-radius:15px; box-shadow:0 8px 25px rgba(255,0,0,0.6);">
 </div>
 <br>
