@@ -25,16 +25,13 @@
   <img alt="CSS" height="50" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
-<!-- GitHub Stats + Nota -->
-<div align="center" style="margin-bottom: 60px; display: flex; justify-content: center; gap: 40px; flex-wrap: wrap; flex-direction: column; align-items: center; gap: 15px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=MathRover&show_icons=true&bg_color=000000&title_color=ff0000&text_color=ffffff&icon_color=ff0000&count_private=true&include_all_commits=true&border_color=ff0000"
-       style="border-radius: 10px; box-shadow: 0 4px 20px rgba(255,0,0,0.5);"/>
 
-  <div style="color:#cccccc; font-size:16px;">
-    <!-- Top Languages -->
-    <div style="display: flex; flex-direction: column; align-items: center; gap: 15px;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MathRover&layout=compact&bg_color=000000&title_color=ff0000&text_color=ffffff&border_color=ff0000"
-           style="border-radius: 10px; box-shadow: 0 4px 20px rgba(255,0,0,0.5);"/>
+<div>
+  <a href="https://github.com/Nicolas-Vanzo">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nicolas-Vanzo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nicolas-Vanzo&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>
+<div>
     </div>
   </div>
 </div>
