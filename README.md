@@ -4,7 +4,7 @@
        style="width: 50%; max-width: 350px; height: auto; border-radius: 12px; box-shadow: 0 4px 12px rgba(255,0,0,0.4);">
 </div>
 
-<!-- Contatos -->
+<!-- Contatos centralizados -->
 <div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap; margin-bottom: 40px;">
   <a href="https://www.linkedin.com/in/matheus-rover-300710352" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-ff0000?style=for-the-badge&logo=linkedin&logoColor=white" height="28">
@@ -17,7 +17,7 @@
   </a>
 </div>
 
-<!-- Linguagens -->
+<!-- Linguagens centralizadas -->
 <div style="display: flex; justify-content: center; gap: 25px; flex-wrap: wrap; margin-bottom: 40px;">
   <img alt="Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img alt="C" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
@@ -25,8 +25,8 @@
   <img alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
-<!-- GitHub Stats + Top Languages lado a lado -->
-<div style="display: flex; justify-content: center; gap: 15px; flex-wrap: nowrap; margin-bottom: 40px; max-width: 580px; margin-left: auto; margin-right: auto;">
+<!-- GitHub Stats + Top Languages lado a lado, centralizados -->
+<div style="display: flex; justify-content: center; gap: 15px; flex-wrap: nowrap; margin-bottom: 60px;">
 
   <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=MathRover&show_icons=true&bg_color=000000&title_color=ff0000&text_color=ffffff&icon_color=ff0000&count_private=true&include_all_commits=true&border_color=ff0000"
