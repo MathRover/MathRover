@@ -1,24 +1,24 @@
 <!-- Introdução -->
-<h1 align="center">👋 Olá, eu sou Matheus Rover! Bem vindo ao meu perfil! </h1>
+<h1 align="center" style="color:#ff0000;">👋 Olá, eu sou Matheus Rover! Bem-vindo ao meu perfil!</h1>
 <h3 align="center">
-  <img src="https://img.shields.io/badge/Estudante-Engenharia%20de%20Software-111111?style=for-the-badge&logo=readme&logoColor=white" />
-  <img src="https://img.shields.io/badge/Entusiasta-IA%20%26%20Tech-660000?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Estudante-Engenharia%20de%20Software-000000?style=for-the-badge&logo=readme&logoColor=white" />
+  <img src="https://img.shields.io/badge/Entusiasta-IA%20%26%20Tech-000000?style=for-the-badge&logo=python&logoColor=#ff0000" />
 </h3>
 
 <br>
 
 <!-- Stack + Contatos + GitHub Stats -->
-<div align="center">
+<div align="center" style="background-color:#000000; color:white;">
 
   <!-- Contatos -->
   <a href="https://www.linkedin.com/in/matheus-rover-300710352" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="mailto:rovermatheus@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-111111?style=for-the-badge&logo=gmail&logoColor=red">
+    <img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
   <a href="https://www.instagram.com/math.rover" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-1a1a1a?style=for-the-badge&logo=instagram&logoColor=darkred">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
 
   <br><br>
@@ -30,33 +30,33 @@
 
   <br><br>
 
-  <!-- GitHub Stats e Top Languages lado a lado -->
+  <!-- GitHub Stats e Top Languages -->
   <table align="center">
     <tr>
       <td>
         <picture>
           <source
-            srcset="https://github-readme-stats.vercel.app/api?username=MathRover&show_icons=true&theme=dark&icon_color=red"
+            srcset="https://github-readme-stats.vercel.app/api?username=MathRover&show_icons=true&theme=dark&title_color=ff0000&text_color=ffffff&icon_color=ff0000&bg_color=000000"
             media="(prefers-color-scheme: dark)"
           />
           <source
-            srcset="https://github-readme-stats.vercel.app/api?username=MathRover&show_icons=true&theme=tokyonight"
+            srcset="https://github-readme-stats.vercel.app/api?username=MathRover&show_icons=true&theme=dark&title_color=ff0000&text_color=ffffff&icon_color=ff0000&bg_color=000000"
             media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
           />
-          <img src="https://github-readme-stats.vercel.app/api?username=MathRover&show_icons=true&theme=dark&icon_color=red" />
+          <img src="https://github-readme-stats.vercel.app/api?username=MathRover&show_icons=true&theme=dark&title_color=ff0000&text_color=ffffff&icon_color=ff0000&bg_color=000000" />
         </picture>
       </td>
       <td>
         <picture>
           <source
-            srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=MathRover&layout=compact&theme=dark"
+            srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=MathRover&layout=compact&theme=dark&title_color=ff0000&text_color=ffffff&bg_color=000000"
             media="(prefers-color-scheme: dark)"
           />
           <source
-            srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=MathRover&layout=compact&theme=tokyonight"
+            srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=MathRover&layout=compact&theme=dark&title_color=ff0000&text_color=ffffff&bg_color=000000"
             media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
           />
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MathRover&layout=compact&theme=dark" />
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MathRover&layout=compact&theme=dark&title_color=ff0000&text_color=ffffff&bg_color=000000" />
         </picture>
       </td>
     </tr>
