@@ -1,38 +1,36 @@
 <!-- Banner animado -->
 <div align="center">
-  <img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" width="100%" height="220" style="object-fit: cover; border-radius: 10px;">
+  <img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" width="100%" height="200" style="object-fit: cover; border-radius: 10px;">
 </div>
 
 <!-- Introdução -->
-<h1 align="center" style="color:#ff0000; font-family: monospace;">👹 Matheus Rover</h1>
-<h3 align="center" style="color:white; font-family: monospace;">Bem-vindo ao meu portifólio</h3>
+<h1 align="center" style="color:#ff0000;">👋 Olá, eu sou Matheus Rover!</h1>
+<h3 align="center" style="color:white;">Bem-vindo ao meu perfil!</h3>
 
 ---
 
-<!-- Sobre mim -->
-### 🩸 Sobre mim
+### 🩸 Sobre mim:
 - 💻 Estudante de **Engenharia de Software**
-- 🧠 Focado em **Inteligência Artificial** e **programação em Python**
-- ⚙️ Crio sistemas e APIs com precisão cirúrgica
-
+- 🧠 Interessado em **Inteligência Artificial**
+- ⚙️ Apaixonado por **Técnologia**
 ---
 
-<!-- Estatísticas GitHub -->
+### ⚔️ Estatísticas do GitHub:
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MathRover&show_icons=true&bg_color=000000&title_color=ff0000&text_color=ffffff&icon_color=ff0000&border_color=ff0000&hide_border=false" alt="GitHub Stats" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api?username=MathRover&show_icons=true&bg_color=000000&title_color=ff0000&text_color=ffffff&icon_color=ff0000&border_color=ff0000" alt="GitHub Stats" width="48%">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=MathRover&theme=dark&background=000000&border=ff0000&ring=ff0000&fire=ff0000&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ff0000" alt="GitHub Streak" width="48%">
 </div>
 
 ---
 
-<!-- Linguagens mais usadas -->
+### 🔥 Linguagens mais usadas:
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MathRover&layout=compact&bg_color=000000&title_color=ff0000&text_color=ffffff&icon_color=ff0000&border_color=ff0000" width="60%">
 </div>
 
 ---
 
-<!-- Redes Sociais -->
+### 🌐 Conecte-se comigo:
 <div align="center">
   <a href="https://www.linkedin.com/in/matheusrover" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-ff0000?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -47,7 +45,4 @@
 
 ---
 
-<!-- Mensagem final -->
-<h3 align="center" style="color:#ff0000; font-family: monospace;">
-  “Break the bones, break the code.” 💀
-</h3>
+<h3 align="center" style="color:#ff0000;">“Break the bones, break the code.” 💀</h3>
