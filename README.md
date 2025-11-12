@@ -32,8 +32,9 @@
 <!-- GitHub Stats e Top Languages -->
 <div align="center" style="margin-top: 40px;">
   <a href="https://github.com/MathRover">
-    <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MathRover&show_icons=true&bg_color=000000&title_color=ff0000&text_color=ffffff&icon_color=ff0000&count_private=true&include_all_commits=true&border_color=ff0000&cache_seconds=1800&v=2"/>
-    <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MathRover&layout=compact&langs_count=8&bg_color=000000&title_color=ff0000&text_color=ffffff&border_color=ff0000&cache_seconds=1800&v=2"/>
+    <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MathRover&show_icons=true&bg_color=000000&title_color=ff0000&text_color=ffffff&icon_color=ff0000&border_color=ff0000&cache_seconds=1800&v=3"/>  
+    <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MathRover&layout=compact&langs_count=8&bg_color=000000&title_color=ff0000&text_color=ffffff&border_color=ff0000&cache_seconds=1800&v=3"/>
   </a>
 </div>
+
 
