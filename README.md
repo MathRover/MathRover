@@ -12,10 +12,6 @@
   <a href="https://github.com/MathRover">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MathRover&layout=compact&langs_count=12&bg_color=000000&title_color=ff0000&text_color=ffffff&icon_color=ff0000&border_color=ff0000&hide_border=false" alt="Top Languages"/>
   </a>
-  <br><br>
-  <a href="https://github.com/MathRover">
-    <img width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MathRover&theme=github_dark" alt="Profile Summary"/>
-  </a>
 </div>
 
 <!-- 🩸 Contribuições -->
