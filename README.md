@@ -4,15 +4,20 @@
        style="display:block; margin:auto; width:80%; max-width:700px; height:180px; border-radius:15px; box-shadow:0 8px 25px rgba(255,0,0,0.6); object-fit:cover;">
 </div>
 
-<!-- 📊 Estatísticas GitHub -->
-<h2 align="center" style="color:#ff0000;"></h2>
-<br>
-<div align="center" style="margin-top: 40px;">
+<!-- 🎸 GitHub Stats e Linguagens -->
+<div align="center" style="margin-top: 40px; margin-bottom: 60px;">
   <a href="https://github.com/MathRover">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MathRover&show_icons=true&bg_color=000000&title_color=ff0000&text_color=ffffff&icon_color=ff0000&count_private=true&include_all_commits=true&border_color=ff0000&cache_seconds=1800&v=1"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MathRover&layout=compact&langs_count=8&bg_color=000000&title_color=ff0000&text_color=ffffff&border_color=ff0000&cache_seconds=1800&v=1"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MathRover&show_icons=true&count_private=true&rank_icon=github&bg_color=000000&title_color=ff0000&text_color=ffffff&icon_color=ff0000&border_color=ff0000&hide_border=false" alt="GitHub Stats"/>
+  </a>
+  <a href="https://github.com/MathRover">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MathRover&layout=compact&langs_count=12&bg_color=000000&title_color=ff0000&text_color=ffffff&icon_color=ff0000&border_color=ff0000&hide_border=false" alt="Top Languages"/>
+  </a>
+  <br><br>
+  <a href="https://github.com/MathRover">
+    <img width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MathRover&theme=github_dark" alt="Profile Summary"/>
   </a>
 </div>
+
 <!-- 🩸 Contribuições -->
 <h2 align="center" style="color:#ff0000;"></h2>
 <br>
