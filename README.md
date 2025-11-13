@@ -1,3 +1,6 @@
+<!-- 🩸 Cabeçalho -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=ff0000&fontAlign=50&section=header">
+
 <!-- 🩸 GIF de Apresentação -->
 <div align="center" style="margin-bottom: 80px;">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTVwMDE2NXJqemh6ZXI5Mmh1MnJuOGx4a3A1N2dwb2F1aHE5N3pjMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/2agvxSyU2FFeIOXyrp/giphy.gif"
