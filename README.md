@@ -16,7 +16,6 @@
   </a>
 </div>
 <br>
-<br>
 
 <!-- 🩸 Contribuições -->
 <h2 align="center" style="color:#ff0000;"></h2>
@@ -56,7 +55,6 @@
     </td>
   </tr>
 </table>
-<br>
 <br>
 
 <!-- 🤝 Contatos -->
