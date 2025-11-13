@@ -8,6 +8,8 @@
       Hi there! I'm <b>Matheus Rover</b>
   </samp>
 </div>
+<br>
+<br>
 
 <!-- 🩸 GIF de Apresentação --
   <div align="center" style="margin-bottom: 80px;">
