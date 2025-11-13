@@ -1,13 +1,13 @@
 <!-- 🩸 Cabeçalho -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=ff0000&fontAlign=50&section=header">
 
-<div align="center">
-  <b>`プ ロ グ ラ マ`</b>
-  <samp>
-      <br>
-      Hi there! I'm <b>Matheus Rover</b>
-  </samp>
+<div align="center" style="font-family:'Consolas','Courier New',monospace; color:#fff;">
+  <div style="display:inline-block; border:2px solid #ff0000; border-radius:10px; padding:10px 20px; box-shadow:0 0 10px #ff0000;">
+    <samp style="font-size:1.2rem;">Hi there! I'm <b style="color:#ff0000;">Matheus Rover</b></samp>
+  </div>
 </div>
+<br>
+
 <br>
 <br>
 
