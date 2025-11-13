@@ -21,6 +21,7 @@
   </a>
 </div>
 <br>
+<br>
 
 <!-- 💻 Tecnologias -->
 <div align="center" style="margin-top: 50px;">
