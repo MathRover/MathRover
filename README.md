@@ -5,22 +5,27 @@
 </div>
 <br>
 
-<!-- 🤝 Contatos -->
+
+<!-- 📊 Estatísticas GitHub -->
 <h2 align="center" style="color:#ff0000;"></h2>
 <br>
-<div align="center" style="display: flex; justify-content: center; gap: 35px; flex-wrap: wrap; margin-bottom: 80px;">
-  <a href="https://www.linkedin.com/in/matheus-rover-300710352" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-ff0000?style=for-the-badge&logo=linkedin&logoColor=white" height="42">
-  </a>
-  <a href="mailto:rovermatheus@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-black?style=for-the-badge&logo=gmail&logoColor=ff0000" height="42">
-  </a>
-  <a href="https://www.instagram.com/math.rover" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-ff0000?style=for-the-badge&logo=instagram&logoColor=white" height="42">
+<div align="center" style="margin-top: 40px;">
+  <a href="https://github.com/MathRover">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MathRover&show_icons=true&bg_color=000000&title_color=ff0000&text_color=ffffff&icon_color=ff0000&count_private=true&include_all_commits=true&border_color=ff0000&cache_seconds=1800&v=1"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MathRover&layout=compact&langs_count=8&bg_color=000000&title_color=ff0000&text_color=ffffff&border_color=ff0000&cache_seconds=1800&v=1"/>
   </a>
 </div>
 <br>
+<br>
 
+<!-- 🩸 Contribuições -->
+<h2 align="center" style="color:#ff0000;"></h2>
+<br>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MathRover&theme=redical&bg_color=000000&color=ff0000&line=ff0000&point=ffffff&area=true&hide_border=true"
+       width="95%" alt="Gráfico de Contribuições"/>
+</div>
+<br>
 
 <!-- ⚙️ Tecnologias e Ferramentas -->
 <h2 align="center" style="color:#ff0000;"></h2>
@@ -54,24 +59,21 @@
 <br>
 <br>
 
-<!-- 📊 Estatísticas GitHub -->
+<!-- 🤝 Contatos -->
 <h2 align="center" style="color:#ff0000;"></h2>
 <br>
-<div align="center" style="margin-top: 40px;">
-  <a href="https://github.com/MathRover">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MathRover&show_icons=true&bg_color=000000&title_color=ff0000&text_color=ffffff&icon_color=ff0000&count_private=true&include_all_commits=true&border_color=ff0000&cache_seconds=1800&v=1"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MathRover&layout=compact&langs_count=8&bg_color=000000&title_color=ff0000&text_color=ffffff&border_color=ff0000&cache_seconds=1800&v=1"/>
+<div align="center" style="display: flex; justify-content: center; gap: 35px; flex-wrap: wrap; margin-bottom: 80px;">
+  <a href="https://www.linkedin.com/in/matheus-rover-300710352" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-ff0000?style=for-the-badge&logo=linkedin&logoColor=white" height="42">
+  </a>
+  <a href="mailto:rovermatheus@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-black?style=for-the-badge&logo=gmail&logoColor=ff0000" height="42">
+  </a>
+  <a href="https://www.instagram.com/math.rover" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-ff0000?style=for-the-badge&logo=instagram&logoColor=white" height="42">
   </a>
 </div>
 <br>
-<br>
 
-<!-- 🩸 Contribuições -->
-<h2 align="center" style="color:#ff0000;"></h2>
-<br>
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MathRover&theme=redical&bg_color=000000&color=ff0000&line=ff0000&point=ffffff&area=true&hide_border=true"
-       width="95%" alt="Gráfico de Contribuições"/>
-</div>
-<br>
-
+<!-- 🩸 Rodapé -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=ff0000&fontAlign=50&section=footer">
