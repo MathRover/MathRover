@@ -2,23 +2,13 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=ff0000&fontAlign=50&section=header">
 
 <div align="center">
-  <table>
-    <tr>
-      <td style="border: 2px solid #ff0000; border-radius: 10px; padding: 12px 25px; background-color: #0a0a0a;">
-        <samp style="color:#ffffff; font-size:1.2rem;">
-          Hi there! I'm <b style="color:#ff0000;">Matheus Rover</b>
-        </samp>
-      </td>
-    </tr>
-  </table>
+  <!-- Primeira animação -->
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=3000&pause=800&color=FF0000&center=true&vCenter=true&width=700&lines=Hi+there!+I'm+Matheus+Rover" alt="Typing SVG" />
+
+  <!-- Segunda animação -->
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=3500&pause=800&color=FF0000&center=true&vCenter=true&width=700&lines=Software+Engineering+Student" alt="Typing SVG" />
 </div>
 <br>
-<br>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=3000&pause=800&color=FF0000&center=true&vCenter=true&width=700&lines=Hi+there!+I'm+Matheus+Rover;Welcome+to+my+profile!" alt="Typing SVG" />
-</div>
-
 
 <!-- 🎸 GitHub Stats e Linguagens -->
 <div align="center" style="margin-top: 40px; margin-bottom: 60px;">
