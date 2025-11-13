@@ -1,17 +1,18 @@
 <!-- 🩸 Cabeçalho -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=ff0000&fontAlign=50&section=header">
 
-<div align="center" style="font-family:'Consolas','Courier New',monospace;">
-  <div style="display:inline-block; border: 2px solid #ff0000; border-radius: 10px; padding: 12px 25px; background-color:#0a0a0a; box-shadow: 0 0 15px #ff000080;">
-    <samp style="color:#ffffff; font-size:1.2rem;">
-      Hi there! I'm <b style="color:#ff0000;">Matheus Rover</b>
-    </samp>
-  </div>
+<div align="center">
+  <table>
+    <tr>
+      <td style="border: 2px solid #ff0000; border-radius: 10px; padding: 12px 25px; background-color: #0a0a0a;">
+        <samp style="color:#ffffff; font-size:1.2rem;">
+          Hi there! I'm <b style="color:#ff0000;">Matheus Rover</b>
+        </samp>
+      </td>
+    </tr>
+  </table>
 </div>
 <br>
-<br>
-<br>
-
 
 <!-- 🎸 GitHub Stats e Linguagens -->
 <div align="center" style="margin-top: 40px; margin-bottom: 60px;">
