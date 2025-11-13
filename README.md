@@ -15,6 +15,11 @@
 <br>
 <br>
 
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=3000&pause=800&color=FF0000&center=true&vCenter=true&width=700&lines=Hi+there!+I'm+Matheus+Rover;Welcome+to+my+profile!" alt="Typing SVG" />
+</div>
+
+
 <!-- 🎸 GitHub Stats e Linguagens -->
 <div align="center" style="margin-top: 40px; margin-bottom: 60px;">
   <a href="https://github.com/MathRover">
