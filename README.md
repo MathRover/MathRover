@@ -16,6 +16,16 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MathRover&layout=compact&langs_count=12&bg_color=000000&title_color=ff0000&text_color=ffffff&icon_color=ff0000&border_color=ff0000&hide_border=false" alt="Top Languages"/>
   </a>
 </div>
+<h2 align="center" style="color:#ff0000;">📊 Estatísticas</h2>
+<br>
+<div align="center" style="margin-top: 40px;">
+  <a href="https://github.com/MathRover">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MathRover&show_icons=true&bg_color=000000&title_color=ff0000&text_color=ffffff&icon_color=ff0000&count_private=true&include_all_commits=true&border_color=ff0000&cache_seconds=1800&v=1"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MathRover&layout=compact&langs_count=8&bg_color=000000&title_color=ff0000&text_color=ffffff&border_color=ff0000&cache_seconds=1800&v=1"/>
+  </a>
+</div>
+<br>
+<br>
 
 <!-- ⚙️ Tecnologias e Ferramentas -->
 <h2 align="center" style="color:#ff0000;"></h2>
