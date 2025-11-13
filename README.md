@@ -9,23 +9,6 @@
   </samp>
 </div>
 <br>
-<br>
-
-<!-- 🤝 Contatos -->
-<h2 align="center" style="color:#ff0000;"></h2>
-<br>
-<div align="center" style="display: flex; justify-content: center; gap: 35px; flex-wrap: wrap; margin-bottom: 80px;">
-  <a href="https://www.linkedin.com/in/matheus-rover-300710352" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-ff0000?style=for-the-badge&logo=linkedin&logoColor=white" height="42">
-  </a>
-  <a href="mailto:rovermatheus@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-black?style=for-the-badge&logo=gmail&logoColor=ff0000" height="42">
-  </a>
-  <a href="https://www.instagram.com/math.rover" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-ff0000?style=for-the-badge&logo=instagram&logoColor=white" height="42">
-  </a>
-</div>
-<br>
 
 <!-- 🩸 GIF de Apresentação --
   <div align="center" style="margin-bottom: 80px;">
@@ -79,6 +62,21 @@
     </td>
   </tr>
 </table>
+
+<!-- 🤝 Contatos -->
+<h2 align="center" style="color:#ff0000;"></h2>
+<br>
+<div align="center" style="display: flex; justify-content: center; gap: 35px; flex-wrap: wrap; margin-bottom: 80px;">
+  <a href="https://www.linkedin.com/in/matheus-rover-300710352" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-ff0000?style=for-the-badge&logo=linkedin&logoColor=white" height="42">
+  </a>
+  <a href="mailto:rovermatheus@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-black?style=for-the-badge&logo=gmail&logoColor=ff0000" height="42">
+  </a>
+  <a href="https://www.instagram.com/math.rover" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-ff0000?style=for-the-badge&logo=instagram&logoColor=white" height="42">
+  </a>
+</div>
 
 <!-- 🩸 Rodapé -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=ff0000&fontAlign=50&section=footer">
