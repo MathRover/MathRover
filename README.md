@@ -3,8 +3,6 @@
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTVwMDE2NXJqemh6ZXI5Mmh1MnJuOGx4a3A1N2dwb2F1aHE5N3pjMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/2agvxSyU2FFeIOXyrp/giphy.gif"
        style="display:block; margin:auto; width:80%; max-width:700px; height:180px; border-radius:15px; box-shadow:0 8px 25px rgba(255,0,0,0.6); object-fit:cover;">
 </div>
-<br>
-
 
 <!-- 📊 Estatísticas GitHub -->
 <h2 align="center" style="color:#ff0000;"></h2>
@@ -15,7 +13,13 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MathRover&layout=compact&langs_count=8&bg_color=000000&title_color=ff0000&text_color=ffffff&border_color=ff0000&cache_seconds=1800&v=1"/>
   </a>
 </div>
+<!-- 🩸 Contribuições -->
+<h2 align="center" style="color:#ff0000;"></h2>
 <br>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MathRover&theme=redical&bg_color=000000&color=ff0000&line=ff0000&point=ffffff&area=true&hide_border=true"
+       width="95%" alt="Gráfico de Contribuições"/>
+</div>
 
 <!-- ⚙️ Tecnologias e Ferramentas -->
 <h2 align="center" style="color:#ff0000;"></h2>
