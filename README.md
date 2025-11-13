@@ -1,13 +1,13 @@
 <!-- 🩸 Cabeçalho -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=ff0000&fontAlign=50&section=header">
 
-<div align="center" style="font-family: 'Consolas', 'Courier New', monospace; color: #ffffff; background: linear-gradient(90deg, #000000, #1a0000, #000000); padding: 20px 0; border-radius: 10px; box-shadow: 0 0 15px #ff0000;">
-  <samp style="font-size: 1.3rem;">
-    Hi there! I'm <b style="color:#ff0000;">Matheus Rover</b>
-  </samp>
+<div align="center" style="font-family:'Consolas','Courier New',monospace; color:#fff;">
+  <div style="border-top:2px solid #ff0000; width:60%; margin:auto; margin-bottom:15px;"></div>
+  <samp style="font-size:1.2rem;">Hi there! I'm <b style="color:#ff0000;">Matheus Rover</b></samp>
+  <div style="border-bottom:2px solid #ff0000; width:60%; margin:auto; margin-top:15px;"></div>
 </div>
 <br>
-<br>
+
 
 <!-- 🎸 GitHub Stats e Linguagens -->
 <div align="center" style="margin-top: 40px; margin-bottom: 60px;">
