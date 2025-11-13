@@ -2,11 +2,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=ff0000&fontAlign=50&section=header">
 
 <div align="center">
-  <!-- Primeira animação -->
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=3000&pause=800&color=FF0000&center=true&vCenter=true&width=700&lines=Hi+there!+I'm+Matheus+Rover" alt="Typing SVG" />
-
-  <!-- Segunda animação -->
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=3500&pause=800&color=FF0000&center=true&vCenter=true&width=700&lines=Software+Engineering+Student" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=3500&pause=1000&color=FF0000&center=true&vCenter=true&width=750&lines=Hi+there!+I'm+Matheus+Rover;Software+Engineering+Student" alt="Typing SVG" />
 </div>
 <br>
 
