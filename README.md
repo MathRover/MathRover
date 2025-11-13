@@ -17,15 +17,6 @@
 </div>
 <br>
 
-<!-- 🩸 Contribuições -->
-<h2 align="center" style="color:#ff0000;"></h2>
-<br>
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MathRover&theme=redical&bg_color=000000&color=ff0000&line=ff0000&point=ffffff&area=true&hide_border=true"
-       width="95%" alt="Gráfico de Contribuições"/>
-</div>
-<br>
-
 <!-- ⚙️ Tecnologias e Ferramentas -->
 <h2 align="center" style="color:#ff0000;"></h2>
 <br>
