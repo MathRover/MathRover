@@ -6,7 +6,7 @@
 <br>
 
 <!-- 🤝 Contatos -->
-<h2 align="center" style="color:#ff0000;">🤝 Contatos</h2>
+<h2 align="center" style="color:#ff0000;"></h2>
 <br>
 <div align="center" style="display: flex; justify-content: center; gap: 35px; flex-wrap: wrap; margin-bottom: 80px;">
   <a href="https://www.linkedin.com/in/matheus-rover-300710352" target="_blank">
@@ -21,19 +21,9 @@
 </div>
 <br>
 
-<!-- 💻 Linguagens -->
-<h2 align="center" style="color:#ff0000;">💻 Linguagens</h2>
-<br>
-<div align="center" style="display: flex; justify-content: center; gap: 40px; flex-wrap: wrap; margin-bottom: 80px;">
-  <img alt="Python" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img alt="C" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <img alt="HTML" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img alt="CSS" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
-<br>
 
 <!-- ⚙️ Tecnologias e Ferramentas -->
-<h2 align="center" style="color:#ff0000;">⚙️ Tecnologias e Ferramentas</h2>
+<h2 align="center" style="color:#ff0000;"></h2>
 <br>
 <table align="center">
   <tr>
@@ -65,7 +55,7 @@
 <br>
 
 <!-- 📊 Estatísticas GitHub -->
-<h2 align="center" style="color:#ff0000;">📊 Estatísticas</h2>
+<h2 align="center" style="color:#ff0000;"></h2>
 <br>
 <div align="center" style="margin-top: 40px;">
   <a href="https://github.com/MathRover">
@@ -77,7 +67,7 @@
 <br>
 
 <!-- 🩸 Contribuições -->
-<h2 align="center" style="color:#ff0000;">🔥 Contribuições</h2>
+<h2 align="center" style="color:#ff0000;"></h2>
 <br>
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MathRover&theme=redical&bg_color=000000&color=ff0000&line=ff0000&point=ffffff&area=true&hide_border=true"
