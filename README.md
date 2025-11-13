@@ -22,34 +22,39 @@
 </div>
 
 <!-- ⚙️ Tecnologias e Ferramentas -->
-<h2 align="center" style="color:#ff0000;"></h2>
+<h2 align="center" style="color:#ff0000; font-family:'Press Start 2P', monospace; font-size:16px; margin-bottom:30px;">
+  ⚙️ Tecnologias e Ferramentas
+</h2>
+
+<div align="center" style="background-color:#0a0a0a; border:2px solid #ff0000; border-radius:15px; padding:25px; width:fit-content; margin:auto; box-shadow:0 0 15px #ff000080;">
+  <table>
+    <tr style="color:#ff0000; font-family:'Consolas','Courier New',monospace; font-size:14px; text-align:center;">
+      <th> Linguagens</th>
+      <th> Frameworks & Ferramentas</th>
+      <th> Banco de Dados</th>
+      <th> IDE</th>
+      <th> Sistema Operacional</th>
+    </tr>
+    <tr>
+      <td align="center" style="padding:15px;">
+        <img src="https://skillicons.dev/icons?i=python,c,html,css" height="50"/>
+      </td>
+      <td align="center" style="padding:15px;">
+        <img src="https://skillicons.dev/icons?i=flask,git" height="50"/>
+      </td>
+      <td align="center" style="padding:15px;">
+        <img src="https://skillicons.dev/icons?i=mysql" height="50"/>
+      </td>
+      <td align="center" style="padding:15px;">
+        <img src="https://skillicons.dev/icons?i=vscode" height="50"/>
+      </td>
+      <td align="center" style="padding:15px;">
+        <img src="https://skillicons.dev/icons?i=windows" height="50"/>
+      </td>
+    </tr>
+  </table>
+</div>
 <br>
-<table align="center">
-  <tr>
-    <th> Linguagens</th>
-    <th> Frameworks e Ferramentas</th>
-    <th> Banco de Dados</th>
-    <th>IDE</th>
-    <th> Sistema Operacional</th>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=python,c,html,css" height="50"/>
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=flask,git" height="50"/>
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=mysql" height="50"/>
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=vscode" height="50"/>
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=windows" height="50"/>
-    </td>
-  </tr>
-</table>
 
 <!-- 🩸 GIF de Apresentação --
   <div align="center" style="margin-bottom: 80px;">
