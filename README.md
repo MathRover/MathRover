@@ -13,6 +13,7 @@
   </table>
 </div>
 <br>
+<br>
 
 <!-- 🎸 GitHub Stats e Linguagens -->
 <div align="center" style="margin-top: 40px; margin-bottom: 60px;">
