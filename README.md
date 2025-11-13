@@ -1,11 +1,19 @@
 <!-- 🩸 Cabeçalho -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=ff0000&fontAlign=50&section=header">
 
-<!-- 🩸 GIF de Apresentação -->
-<div align="center" style="margin-bottom: 80px;">
+<div align="center">
+  <b>`プ ロ グ ラ マ`</b>
+  <samp>
+      <br>
+      Hi there! I'm <b>Matheus Rover</b>
+  </samp>
+</div>
+
+<!-- 🩸 GIF de Apresentação --
+  <div align="center" style="margin-bottom: 80px;">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTVwMDE2NXJqemh6ZXI5Mmh1MnJuOGx4a3A1N2dwb2F1aHE5N3pjMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/2agvxSyU2FFeIOXyrp/giphy.gif"
        style="display:block; margin:auto; width:80%; max-width:700px; height:180px; border-radius:15px; box-shadow:0 8px 25px rgba(255,0,0,0.6); object-fit:cover;">
-</div>
+></div>
 
 <!-- 🎸 GitHub Stats e Linguagens -->
 <div align="center" style="margin-top: 40px; margin-bottom: 60px;">
