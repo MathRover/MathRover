@@ -1,86 +1,63 @@
-<!-- 🩸 Cabeçalho -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=ff0000&fontAlign=50&section=header">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=9900CC&fontAlign=50&section=header">
 
-<div align="center">
-  <!-- Primeira linha -->
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=3000&pause=2000&color=FF0000&center=true&vCenter=true&width=750&lines=Hi+there!+I'm+Matheus+Rover" alt="Typing SVG" />
-  <br>
-  <!-- Segunda linha (entra depois da primeira terminar) -->
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=3500&pause=100&color=FF0000&center=true&vCenter=true&width=750&lines=Software+Engineering+Student" alt="Typing SVG" />
+<div align="center" width="100%">
+  <!-- Nome dela -->
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Iosevka&color=9619ABFF&width=900&size=26&center=true&pause=1500&lines=Eduarda+Kauane" 
+    alt="Typing SVG"
+  />
+
+  <!-- Que ela estuda ADS -->
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Iosevka&color=9619ABFF&width=900&size=22&center=true&pause=1500&lines=Student+of+ADS" 
+    alt="Typing SVG"
+  />
 </div>
-<br>
-<br>
 
-<!-- 🎸 GitHub Stats e Linguagens -->
-<div align="center" style="margin-top: 40px; margin-bottom: 60px;">
-  <a href="https://github.com/MathRover">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MathRover&show_icons=true&count_private=true&rank_icon=github&bg_color=000000&title_color=ff0000&text_color=ffffff&icon_color=ff0000&border_color=ff0000&hide_border=false" alt="GitHub Stats"/>
-  </a>
-  <a href="https://github.com/MathRover">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MathRover&layout=compact&langs_count=12&bg_color=000000&title_color=ff0000&text_color=ffffff&icon_color=ff0000&border_color=ff0000&hide_border=false" alt="Top Languages"/>
-  </a>
+---
+<img align="right" height="385" src="https://i.imgur.com/m2Tbs4B.png" />
+
+
+### 👩‍💻 About Me
+- 🔭 I am looking for my first job opportunity.
+- 📚 I’m currently studying Computer Science.
+- 🎯 Passionate about technology, logic and learning new things.
+- 🎓 Backend Developer.
+- 💬 I am currently living in Brazil and focused on improving my professional skills. I am passionate about technology and always looking for new challenges in programming, with an emphasis on continuous learning and growth. I enjoy exploring new tools and technologies, especially in back-end development.
+
+---
+    
+<br></details>
+
+<div align="left">
+  <img height=180 align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api/?username=eduardakauane&show_icons=true&count_private=true&rank_icon=github&theme=tokyonight&font=Iosevka"/>
+  <img height=180 align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardakauane&layout=compact&font=Iosevka&langs_count=16&theme=tokyonight"/>
+  <img align="center" alt="Profile Details" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eduardakauane&theme=tokyonight"/>
 </div>
-<br>
-<br>
 
-<!-- 💻 Tecnologias -->
+---
 
-<div align="center" style="margin-top: 50px;">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=4000&pause=2000&color=FF0000&center=true&vCenter=true&width=600&lines=+Tecnologias" alt="Typing SVG" />
-</div>
-<br>
-
-<div align="center" style="background-color:#0a0a0a; border:2px solid #ff0000; border-radius:15px; padding:25px; width:fit-content; margin:auto; box-shadow:0 0 15px #ff000080;">
+<!-- === Seção de Linguagens (apenas HTML e CSS) === -->
+<div align="center" style="margin-top: 16px;">
+  <h3>🧠 Programming Languages</h3>
   <table>
-    <tr style="color:#ff0000; font-family:'Consolas','Courier New',monospace; font-size:14px; text-align:center;">
-      <th> Linguagens</th>
-      <th> Frameworks & Ferramentas</th>
-      <th> Banco de Dados</th>
-      <th> IDE</th>
-      <th> Sistema Operacional</th>
-    </tr>
     <tr>
-      <td align="center" style="padding:15px;">
-        <img src="https://skillicons.dev/icons?i=python,c,html,css" height="50"/>
+      <td align="center" style="padding: 8px;">
+        <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="48" /><br>
+        <strong>HTML</strong>
       </td>
-      <td align="center" style="padding:15px;">
-        <img src="https://skillicons.dev/icons?i=flask,git" height="50"/>
-      </td>
-      <td align="center" style="padding:15px;">
-        <img src="https://skillicons.dev/icons?i=mysql" height="50"/>
-      </td>
-      <td align="center" style="padding:15px;">
-        <img src="https://skillicons.dev/icons?i=vscode" height="50"/>
-      </td>
-      <td align="center" style="padding:15px;">
-        <img src="https://skillicons.dev/icons?i=windows" height="50"/>
+      <td align="center" style="padding: 8px;">
+        <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="48" /><br>
+        <strong>CSS</strong>
       </td>
     </tr>
   </table>
 </div>
-<br>
 
-<!-- 🩸 GIF de Apresentação --
-  <div align="center" style="margin-bottom: 80px;">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTVwMDE2NXJqemh6ZXI5Mmh1MnJuOGx4a3A1N2dwb2F1aHE5N3pjMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/2agvxSyU2FFeIOXyrp/giphy.gif"
-       style="display:block; margin:auto; width:80%; max-width:700px; height:180px; border-radius:15px; box-shadow:0 8px 25px rgba(255,0,0,0.6); object-fit:cover;">
-</div>
-<br>>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DevPeuh/DevPeuh/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DevPeuh/DevPeuh/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/DevPeuh/DevPeuh/output/pacman-contribution-graph.svg">
+</picture>
 
-<!-- 🤝 Contatos -->
-<h2 align="center" style="color:#ff0000;"></h2>
-<br>
-<div align="center" style="display: flex; justify-content: center; gap: 35px; flex-wrap: wrap; margin-bottom: 80px;">
-  <a href="https://www.linkedin.com/in/matheus-rover-300710352" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-ff0000?style=for-the-badge&logo=linkedin&logoColor=white" height="50" width="180">
-  </a>
-  <a href="mailto:rovermatheus@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-black?style=for-the-badge&logo=gmail&logoColor=ff0000" height="50" width="160">
-  </a>
-  <a href="https://www.instagram.com/math.rover" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-ff0000?style=for-the-badge&logo=instagram&logoColor=white" height="50" width="180">
-  </a>
-</div>
-
-<!-- 🩸 Rodapé -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=ff0000&fontAlign=50&section=footer">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=9900CC&fontAlign=50&section=footer">
