@@ -13,16 +13,16 @@
 
 <!-- 🎸 GitHub Stats e Linguagens -->
 <div align="center" style="margin-top: 40px; margin-bottom: 60px;">
-  <a href="https://github.com/MathRover">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MathRover&show_icons=true&count_private=true&rank_icon=github&bg_color=000000&title_color=ff0000&text_color=ffffff&icon_color=ff0000&border_color=ff0000&hide_border=false" alt="GitHub Stats"/>
-  </a>
-  <a href="https://github.com/MathRover">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MathRover&layout=compact&langs_count=12&bg_color=000000&title_color=ff0000&text_color=ffffff&icon_color=ff0000&border_color=ff0000&hide_border=false" alt="Top Languages"/>
-  </a>
+
+  <img height="180em"
+       src="https://github-readme-stats.vercel.app/api?username=MathRover&show_icons=true&include_all_commits=true&rank_icon=github&bg_color=000000&title_color=ff0000&text_color=ffffff&icon_color=ff0000&border_color=ff0000&hide_border=false&cache_seconds=1800"/>
+
+  <img height="180em"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=MathRover&layout=compact&langs_count=8&bg_color=000000&title_color=ff0000&text_color=ffffff&icon_color=ff0000&border_color=ff0000&hide_border=false&cache_seconds=1800"/>
+
 </div>
 <br>
 <br>
-
 <!-- 💻 Tecnologias -->
 
 <div align="center" style="margin-top: 50px;">
