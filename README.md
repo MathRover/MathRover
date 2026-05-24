@@ -10,6 +10,7 @@
 </div>
 
 <br>
+<br>
 
 <!-- 🎸 GitHub Stats e Linguagens -->
 <div align="center" style="margin-top: 40px; margin-bottom: 60px;">
@@ -74,11 +75,3 @@
 
 <!-- 🩸 Rodapé -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=ff0000&fontAlign=50&section=footer">
-
-<style>
-  @keyframes pulse {
-    0% { text-shadow: 0 0 5px #ff0000, 0 0 10px #ff0000; }
-    50% { text-shadow: 0 0 20px #ff0000, 0 0 30px #ff0000; }
-    100% { text-shadow: 0 0 5px #ff0000, 0 0 10px #ff0000; }
-  }
-</style>
