@@ -2,33 +2,28 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=ff0000&fontAlign=50&section=header">
 
 <div align="center">
-  <!-- Primeira linha -->
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=3000&pause=2000&color=FF0000&center=true&vCenter=true&width=750&lines=Hi+there!+I'm+Matheus+Rover" alt="Typing SVG" />
-  <br>
-  <!-- Segunda linha (entra depois da primeira terminar) -->
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=3500&pause=100&color=FF0000&center=true&vCenter=true&width=750&lines=Software+Engineering+Student" alt="Typing SVG" />
+  <!-- Título com efeito neon pulsante (sem digitação) -->
+  <h1 style="color: #ff0000; font-family: 'Press Start 2P', monospace; font-size: 28px; text-shadow: 0 0 5px #ff0000, 0 0 15px #ff0000; animation: pulse 2s infinite;">
+    Matheus Rover
+  </h1>
+  <p style="color: #ffffff; font-family: monospace; font-size: 16px; letter-spacing: 2px;">
+    Software Engineering Student
+  </p>
 </div>
-<br>
-<br>
 
 <!-- 🎸 GitHub Stats e Linguagens -->
-
 <div align="center" style="margin-top: 40px; margin-bottom: 60px;">
-
   <img height="180em"
        src="https://github-readme-stats-sigma-five.vercel.app/api?username=MathRover&show_icons=true&include_all_commits=true&bg_color=000000&title_color=ff0000&text_color=ffffff&icon_color=ff0000&border_color=ff0000&hide_border=false" />
-
   <img height="180em"
        src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MathRover&layout=compact&langs_count=8&bg_color=000000&title_color=ff0000&text_color=ffffff&icon_color=ff0000&border_color=ff0000&hide_border=false" />
-
 </div>
-<br>
-<br>
-<!-- 💻 Tecnologias -->
 
+<!-- 💻 Tecnologias -->
 <div align="center" style="margin-top: 50px;">
   <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=4000&pause=2000&color=FF0000&center=true&vCenter=true&width=600&lines=+Tecnologias" alt="Typing SVG" />
 </div>
+
 <br>
 
 <div align="center" style="background-color:#0a0a0a; border:2px solid #ff0000; border-radius:15px; padding:25px; width:fit-content; margin:auto; box-shadow:0 0 15px #ff000080;">
@@ -45,7 +40,7 @@
         <img src="https://skillicons.dev/icons?i=python,c,html,css" height="50"/>
       </td>
       <td align="center" style="padding:15px;">
-        <img src="https://skillicons.dev/icons?i=flask,git" height="50"/>
+        <img src="https://skillicons.dev/icons?i=flask,git,django" height="50"/>
       </td>
       <td align="center" style="padding:15px;">
         <img src="https://skillicons.dev/icons?i=mysql" height="50"/>
@@ -59,14 +54,8 @@
     </tr>
   </table>
 </div>
-<br>
 
-<!-- 🩸 GIF de Apresentação --
-  <div align="center" style="margin-bottom: 80px;">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTVwMDE2NXJqemh6ZXI5Mmh1MnJuOGx4a3A1N2dwb2F1aHE5N3pjMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/2agvxSyU2FFeIOXyrp/giphy.gif"
-       style="display:block; margin:auto; width:80%; max-width:700px; height:180px; border-radius:15px; box-shadow:0 8px 25px rgba(255,0,0,0.6); object-fit:cover;">
-</div>
-<br>>
+<br>
 
 <!-- 🤝 Contatos -->
 <h2 align="center" style="color:#ff0000;"></h2>
@@ -85,3 +74,11 @@
 
 <!-- 🩸 Rodapé -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=ff0000&fontAlign=50&section=footer">
+
+<style>
+  @keyframes pulse {
+    0% { text-shadow: 0 0 5px #ff0000, 0 0 10px #ff0000; }
+    50% { text-shadow: 0 0 20px #ff0000, 0 0 30px #ff0000; }
+    100% { text-shadow: 0 0 5px #ff0000, 0 0 10px #ff0000; }
+  }
+</style>
