@@ -3,11 +3,13 @@
 
 <div align="center">
   <!-- Nome com efeito neon, sem digitação -->
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=30&duration=1&pause=1000&color=FF0000&center=true&vCenter=true&width=500&height=70&lines=Matheus+Rover" alt="Matheus Rover" />
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=1&pause=1000&color=FF0000&center=true&vCenter=true&width=550&height=50&lines=Software+Engineering+Student" alt="Software Engineering Student" />
   <br>
   <!-- Subtítulo com efeito neon menor -->
   <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=1&pause=1000&color=FF0000&center=true&vCenter=true&width=400&height=40&lines=Software+Engineering+Student" alt="Software Engineering Student" />
 </div>
+
+<br>
 
 <!-- 🎸 GitHub Stats e Linguagens -->
 <div align="center" style="margin-top: 40px; margin-bottom: 60px;">
