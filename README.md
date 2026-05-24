@@ -2,13 +2,11 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=ff0000&fontAlign=50&section=header">
 
 <div align="center">
-  <!-- Título com efeito neon pulsante (sem digitação) -->
-  <h1 style="color: #ff0000; font-family: 'Press Start 2P', monospace; font-size: 28px; text-shadow: 0 0 5px #ff0000, 0 0 15px #ff0000; animation: pulse 2s infinite;">
-    Matheus Rover
-  </h1>
-  <p style="color: #ffffff; font-family: monospace; font-size: 16px; letter-spacing: 2px;">
-    Software Engineering Student
-  </p>
+  <!-- Nome com efeito neon, sem digitação -->
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=30&duration=1&pause=1000&color=FF0000&center=true&vCenter=true&width=500&height=70&lines=Matheus+Rover" alt="Matheus Rover" />
+  <br>
+  <!-- Subtítulo com efeito neon menor -->
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=1&pause=1000&color=FF0000&center=true&vCenter=true&width=400&height=40&lines=Software+Engineering+Student" alt="Software Engineering Student" />
 </div>
 
 <!-- 🎸 GitHub Stats e Linguagens -->
