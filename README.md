@@ -1,77 +1,109 @@
-<!-- 🩸 Cabeçalho -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=ff0000&fontAlign=50&section=header">
+<p align="center">
+  <img src="banner.jpeg" width="800"/>
+</p>
 
 <div align="center">
-  <!-- Nome com efeito neon, sem digitação -->
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=30&duration=1&pause=1000&color=FF0000&center=true&vCenter=true&width=550&height=70&lines=Matheus+Rover" alt="Matheus Rover" />
-  <br>
-  <!-- Subtítulo corrigido (sem corte) -->
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=1&pause=1000&color=FF0000&center=true&vCenter=true&width=580&height=50&lines=Software+Engineering+Student" alt="Software Engineering Student" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cormorant+Garamond&weight=300&size=42&duration=3500&pause=1200&color=F0EDE6&center=true&vCenter=true&width=700&lines=MATHEUS+ROVER" />
 </div>
 
-<br>
-<br>
+<p align="center">
+<sub>D E V &nbsp; B A C K - E N D &nbsp; — &nbsp; L O N D R I N A &nbsp; / &nbsp; P R</sub></p>
 
-<!-- 🎸 GitHub Stats e Linguagens -->
-<div align="center" style="margin-top: 40px; margin-bottom: 60px;">
-  <img height="180em"
-       src="https://github-readme-stats-sigma-five.vercel.app/api?username=MathRover&show_icons=true&include_all_commits=true&bg_color=000000&title_color=ff0000&text_color=ffffff&icon_color=ff0000&border_color=ff0000&hide_border=false" />
-  <img height="180em"
-       src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MathRover&layout=compact&langs_count=8&bg_color=000000&title_color=ff0000&text_color=ffffff&icon_color=ff0000&border_color=ff0000&hide_border=false" />
-</div>
-
-<!-- 💻 Tecnologias -->
-<div align="center" style="margin-top: 50px;">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=4000&pause=2000&color=FF0000&center=true&vCenter=true&width=600&lines=+Tecnologias" alt="Typing SVG" />
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cormorant+Garamond&style=italic&weight=300&size=18&duration=2800&pause=900&color=888888&center=true&vCenter=true&width=600&lines=マテウス;Matheus;" />
 </div>
 
 <br>
 
-<div align="center" style="background-color:#0a0a0a; border:2px solid #ff0000; border-radius:15px; padding:25px; width:fit-content; margin:auto; box-shadow:0 0 15px #ff000080;">
-  <table>
-    <tr style="color:#ff0000; font-family:'Consolas','Courier New',monospace; font-size:14px; text-align:center;">
-      <th> Linguagens</th>
-      <th> Frameworks & Ferramentas</th>
-      <th> Banco de Dados</th>
-      <th> IDE</th>
-      <th> Sistema Operacional</th>
-    </tr>
-    <tr>
-      <td align="center" style="padding:15px;">
-        <img src="https://skillicons.dev/icons?i=python,c,html,css" height="50"/>
-      </td>
-      <td align="center" style="padding:15px;">
-        <img src="https://skillicons.dev/icons?i=flask,git,django" height="50"/>
-      </td>
-      <td align="center" style="padding:15px;">
-        <img src="https://skillicons.dev/icons?i=mysql" height="50"/>
-      </td>
-      <td align="center" style="padding:15px;">
-        <img src="https://skillicons.dev/icons?i=vscode" height="50"/>
-      </td>
-      <td align="center" style="padding:15px;">
-        <img src="https://skillicons.dev/icons?i=windows" height="50"/>
-      </td>
-    </tr>
-  </table>
+<h3 align="center"><sub> 𝐒 𝐎 𝐁 𝐑 𝐄 &nbsp; 𝐌 𝐈 𝐌</sub></h3>
+
+<table align="center">
+<tr>
+
+<td width="60%">
+
+<p align="left">
+
+Sou estudante de desenvolvimento de software, focado em construir soluções back-end robustas e eficientes.
+Tenho grande interesse em arquitetura de sistemas, bancos de dados e integrações, unindo lógica, criatividade e estética em cada projeto.
+
+Atualmente estudo na Unicesumar, Londrina|PR e utilizo o Visual Studio Code como principal ferramenta de desenvolvimento.
+Estou sempre buscando evoluir, aprender novas tecnologias e aplicar conhecimento na criação de sistemas escaláveis e funcionais.
+
+Seja bem-vindo ao meu GitHub..
+
+</p>
+
+</td>
+
+<td width="40%" align="center">
+
+<img src="cd.gif" width="230"/>
+
+</td>
+
+</tr>
+</table>
+
+<h3 align="center">
+  <sub>𝐓 𝐄 𝐂 𝐍 𝐎 𝐋 𝐎 𝐆 𝐈 𝐀 𝐒 &nbsp; 𝐐 𝐔 𝐄 &nbsp; 𝐄 𝐒 𝐓 𝐎 𝐔 &nbsp; 𝐀 𝐏 𝐑 𝐄 𝐍 𝐃 𝐄 𝐍 𝐃 𝐎</sub>
+</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-050505?style=flat-square&logoColor=4d9cff&logo=git" />
+  <img src="https://img.shields.io/badge/VS%20Code-050505?style=flat-square&logoColor=4d9cff&logo=visual-studio-code" />
+  <img src="https://img.shields.io/badge/Windows-050505?style=flat-square&logoColor=4d9cff&logo=windows" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-0f1720?style=flat-square&logoColor=6fb6ff&logo=python" />
+  <img src="https://img.shields.io/badge/C-050505?style=flat-square&logoColor=4d9cff&logo=c" />
+  <img src="https://img.shields.io/badge/HTML5-132238?style=flat-square&logoColor=7bb8ff&logo=html5" />
+  <img src="https://img.shields.io/badge/CSS3-1a2b45?style=flat-square&logoColor=6aaeff&logo=css3" />
+  <img src="https://img.shields.io/badge/Flask-16202b?style=flat-square&logoColor=9ad0ff&logo=flask" />
+  <img src="https://img.shields.io/badge/Django-092e20?style=flat-square&logoColor=9ad0ff&logo=django" />
+  <img src="https://img.shields.io/badge/MySQL-050505?style=flat-square&logoColor=4d9cff&logo=mysql" />
+</p>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=MathRover&locale=pt-br&mode=daily&theme=dark&hide_border=true&background=050505&stroke=8ec5ff&ring=8ec5ff&fire=8ec5ff&currStreakNum=f0ede6&sideNums=f0ede6&currStreakLabel=8ec5ff&sideLabels=8ec5ff&dates=5f7d95" height="165" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=MathRover&show_icons=true&hide_border=true&bg_color=050505&title_color=8ec5ff&text_color=8ec5ff&icon_color=8ec5ff" height="165" />
 </div>
 
 <br>
 
-<!-- 🤝 Contatos -->
-<h2 align="center" style="color:#ff0000;"></h2>
-<br>
-<div align="center" style="display: flex; justify-content: center; gap: 35px; flex-wrap: wrap; margin-bottom: 80px;">
+<!-- Contatos -->
+<div align="center">
   <a href="https://www.linkedin.com/in/matheus-rover-300710352" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-ff0000?style=for-the-badge&logo=linkedin&logoColor=white" height="50" width="180">
+    <img src="https://img.shields.io/badge/LinkedIn-050505?style=flat-square&logo=linkedin&logoColor=4d9cff" />
   </a>
   <a href="mailto:rovermatheus@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-black?style=for-the-badge&logo=gmail&logoColor=ff0000" height="50" width="160">
+    <img src="https://img.shields.io/badge/Gmail-050505?style=flat-square&logo=gmail&logoColor=4d9cff" />
   </a>
   <a href="https://www.instagram.com/math.rover" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-ff0000?style=for-the-badge&logo=instagram&logoColor=white" height="50" width="180">
+    <img src="https://img.shields.io/badge/Instagram-050505?style=flat-square&logo=instagram&logoColor=4d9cff" />
   </a>
 </div>
 
-<!-- 🩸 Rodapé -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=ff0000&fontAlign=50&section=footer">
+<br>
+
+<div align="center">
+
+*"愛を持ってペンサールを愛してください."*
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cormorant+Garamond&weight=300&size=42&duration=3500&pause=1200&color=F0EDE6&center=true&vCenter=true&width=700&lines=MATHEUS+ROVER" />
+</div>
+<p align="center">
+  <sub><sup>B A C K - E N D &nbsp; D E V E L O P E R</sup></sub>
+</p>
+
+<td width="40%" align="center" style="border: none;">
+  <img src="banner2.jpeg" width="800"/>
+</td>
+
+<p align="center">
+  <sub>`MATHEUS ROVER · DEV BACK-END · LONDRINA`</sub>
+</p>
+
+</div>
