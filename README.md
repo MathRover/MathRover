@@ -96,7 +96,7 @@ Sinta-se à vontade para explorar meus projetos e acompanhar minha evolução. F
 </p>
 
 <td width="40%" align="center" style="border: none;">
-  <img src="banner2.jpeg" width="800"/>
+  <img src="banner2.gif" width="800"/>
 </td>
 
 <p align="center">
