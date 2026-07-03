@@ -10,7 +10,7 @@
 <sub>D E V &nbsp; B A C K - E N D &nbsp; — &nbsp; L O N D R I N A &nbsp; / &nbsp; P R</sub></p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Cormorant+Garamond&style=italic&weight=300&size=18&duration=2800&pause=900&color=888888&center=true&vCenter=true&width=600&lines=マテウス;Matheus;" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cormorant+Garamond&style=italic&weight=300&size=18&duration=2800&pause=900&color=888888&center=true&vCenter=true&width=600&lines=マテウス;Rover;" />
 </div>
 
 <br>
@@ -24,13 +24,15 @@
 
 <p align="left">
 
-Sou estudante de desenvolvimento de software, focado em construir soluções back-end robustas e eficientes.
-Tenho grande interesse em arquitetura de sistemas, bancos de dados e integrações, unindo lógica, criatividade e estética em cada projeto.
+Sou um entusiasta da tecnologia e estudante de Engenharia de Software na <strong>Unicesumar, Londrina | PR</strong>. Minha jornada no desenvolvimento é guiada pela busca de soluções back-end que unam performance, segurança e elegância.
 
-Atualmente estudo na Unicesumar, Londrina|PR e utilizo o Visual Studio Code como principal ferramenta de desenvolvimento.
-Estou sempre buscando evoluir, aprender novas tecnologias e aplicar conhecimento na criação de sistemas escaláveis e funcionais.
+Meu foco está na construção de sistemas escaláveis, APIs robustas e integrações eficientes. Trabalho com <strong>Python</strong>, utilizando frameworks como <strong>Flask</strong> e <strong>Django</strong>, e estou sempre explorando novas maneiras de otimizar bancos de dados e arquiteturas de servidor.
 
-Seja bem-vindo ao meu GitHub..
+Utilizo o <strong>Visual Studio Code</strong> e o <strong>PyCharm</strong> como minhas principais ferramentas de desenvolvimento, combinando produtividade e conforto no dia a dia. Além do código, tenho um olhar atento para o design de software e a experiência do desenvolvedor, buscando criar não apenas código funcional, mas também legível e bem estruturado.
+
+Fora do editor, gosto de música, cultura japonesa e design minimalista — influências que também transparecem no meu perfil. Acredito que a tecnologia, quando bem aplicada, pode transformar ideias em experiências memoráveis.
+
+Sinta-se à vontade para explorar meus projetos e acompanhar minha evolução. Feedbacks e colaborações são sempre bem-vindos.
 
 </p>
 
@@ -52,6 +54,7 @@ Seja bem-vindo ao meu GitHub..
 <p align="center">
   <img src="https://img.shields.io/badge/Git-050505?style=flat-square&logoColor=4d9cff&logo=git" />
   <img src="https://img.shields.io/badge/VS%20Code-050505?style=flat-square&logoColor=4d9cff&logo=visual-studio-code" />
+  <img src="https://img.shields.io/badge/PyCharm-050505?style=flat-square&logoColor=4d9cff&logo=pycharm" />
   <img src="https://img.shields.io/badge/Windows-050505?style=flat-square&logoColor=4d9cff&logo=windows" />
 </p>
 
