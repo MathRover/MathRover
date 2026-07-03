@@ -3,14 +3,14 @@
 </p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Cormorant+Garamond&weight=300&size=42&duration=1&pause=999999&color=F0EDE6&center=true&vCenter=true&width=700&lines=MATHEUS+ROVER&cursorColor=050505" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cormorant+Garamond&weight=300&size=42&duration=1&pause=1000&color=F0EDE6&center=true&vCenter=true&width=700&lines=MATHEUS+ROVER" />
 </div>
 
 <p align="center">
 <sub>D E V &nbsp; B A C K - E N D &nbsp; — &nbsp; L O N D R I N A &nbsp; / &nbsp; P R</sub></p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Cormorant+Garamond&style=italic&weight=300&size=18&duration=2800&pause=900&color=888888&center=true&vCenter=true&width=600&lines=Rover." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cormorant+Garamond&style=italic&weight=300&size=18&duration=1&pause=1000&color=888888&center=true&vCenter=true&width=600&lines=Rover." />
 </div>
 
 <br>
@@ -97,7 +97,7 @@ Sinta-se à vontade para explorar meus projetos e acompanhar minha evolução. F
 *"Become who you are."*
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Cormorant+Garamond&weight=300&size=42&duration=1&pause=999999&color=F0EDE6&center=true&vCenter=true&width=700&lines=MATHEUS+ROVER&cursorColor=050505" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cormorant+Garamond&weight=300&size=42&duration=1&pause=1000&color=F0EDE6&center=true&vCenter=true&width=700&lines=MATHEUS+ROVER" />
 </div>
 <p align="center">
   <sub><sup>B A C K - E N D &nbsp; D E V E L O P E R</sup></sub>
