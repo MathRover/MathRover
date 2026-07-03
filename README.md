@@ -48,25 +48,25 @@ Sinta-se à vontade para explorar meus projetos e acompanhar minha evolução. F
 </h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Git-050505?style=flat-square&logoColor=4d9cff&logo=git" />
-  <img src="https://img.shields.io/badge/VS%20Code-050505?style=flat-square&logoColor=4d9cff&logo=visual-studio-code" />
-  <img src="https://img.shields.io/badge/PyCharm-050505?style=flat-square&logoColor=4d9cff&logo=pycharm" />
-  <img src="https://img.shields.io/badge/Windows-050505?style=flat-square&logoColor=4d9cff&logo=windows" />
+  <img src="https://img.shields.io/badge/Git-050505?style=flat-square&logoColor=F0EDE6&logo=git" />
+  <img src="https://img.shields.io/badge/VS%20Code-050505?style=flat-square&logoColor=F0EDE6&logo=visual-studio-code" />
+  <img src="https://img.shields.io/badge/PyCharm-050505?style=flat-square&logoColor=F0EDE6&logo=pycharm" />
+  <img src="https://img.shields.io/badge/Windows-050505?style=flat-square&logoColor=F0EDE6&logo=windows" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-0f1720?style=flat-square&logoColor=6fb6ff&logo=python" />
-  <img src="https://img.shields.io/badge/C-050505?style=flat-square&logoColor=4d9cff&logo=c" />
-  <img src="https://img.shields.io/badge/HTML5-132238?style=flat-square&logoColor=7bb8ff&logo=html5" />
-  <img src="https://img.shields.io/badge/CSS3-1a2b45?style=flat-square&logoColor=6aaeff&logo=css3" />
-  <img src="https://img.shields.io/badge/Flask-16202b?style=flat-square&logoColor=9ad0ff&logo=flask" />
-  <img src="https://img.shields.io/badge/Django-092e20?style=flat-square&logoColor=9ad0ff&logo=django" />
-  <img src="https://img.shields.io/badge/MySQL-050505?style=flat-square&logoColor=4d9cff&logo=mysql" />
+  <img src="https://img.shields.io/badge/Python-0f1720?style=flat-square&logoColor=F0EDE6&logo=python" />
+  <img src="https://img.shields.io/badge/C-050505?style=flat-square&logoColor=F0EDE6&logo=c" />
+  <img src="https://img.shields.io/badge/HTML5-132238?style=flat-square&logoColor=F0EDE6&logo=html5" />
+  <img src="https://img.shields.io/badge/CSS3-1a2b45?style=flat-square&logoColor=F0EDE6&logo=css3" />
+  <img src="https://img.shields.io/badge/Flask-16202b?style=flat-square&logoColor=F0EDE6&logo=flask" />
+  <img src="https://img.shields.io/badge/Django-092e20?style=flat-square&logoColor=F0EDE6&logo=django" />
+  <img src="https://img.shields.io/badge/MySQL-050505?style=flat-square&logoColor=F0EDE6&logo=mysql" />
 </p>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=MathRover&locale=pt-br&mode=daily&theme=dark&hide_border=true&background=050505&stroke=8ec5ff&ring=8ec5ff&fire=8ec5ff&currStreakNum=f0ede6&sideNums=f0ede6&currStreakLabel=8ec5ff&sideLabels=8ec5ff&dates=5f7d95" height="165" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=MathRover&show_icons=true&hide_border=true&bg_color=050505&title_color=8ec5ff&text_color=8ec5ff&icon_color=8ec5ff" height="165" />
+  <img src="https://streak-stats.demolab.com?user=MathRover&locale=pt-br&mode=daily&theme=dark&hide_border=true&background=050505&stroke=999999&ring=999999&fire=999999&currStreakNum=F0EDE6&sideNums=F0EDE6&currStreakLabel=999999&sideLabels=999999&dates=777777" height="165" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=MathRover&show_icons=true&hide_border=true&bg_color=050505&title_color=F0EDE6&text_color=999999&icon_color=999999" height="165" />
 </div>
 
 <br>
@@ -74,13 +74,13 @@ Sinta-se à vontade para explorar meus projetos e acompanhar minha evolução. F
 <!-- Contatos -->
 <div align="center">
   <a href="https://www.linkedin.com/in/matheus-rover-300710352" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-050505?style=flat-square&logo=linkedin&logoColor=4d9cff" />
+    <img src="https://img.shields.io/badge/LinkedIn-050505?style=flat-square&logo=linkedin&logoColor=F0EDE6" />
   </a>
   <a href="mailto:rovermatheus@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-050505?style=flat-square&logo=gmail&logoColor=4d9cff" />
+    <img src="https://img.shields.io/badge/Gmail-050505?style=flat-square&logo=gmail&logoColor=F0EDE6" />
   </a>
   <a href="https://www.instagram.com/math.rover" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-050505?style=flat-square&logo=instagram&logoColor=4d9cff" />
+    <img src="https://img.shields.io/badge/Instagram-050505?style=flat-square&logo=instagram&logoColor=F0EDE6" />
   </a>
 </div>
 
