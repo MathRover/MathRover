@@ -94,10 +94,8 @@ Sinta-se à vontade para explorar meus projetos e acompanhar minha evolução. F
 
 <div align="center">
 
-*"Become who you are."*
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Cormorant+Garamond&weight=300&size=42&duration=1&pause=1000&color=F0EDE6&center=true&vCenter=true&width=700&lines=MATHEUS+ROVER" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cormorant+Garamond&weight=300&size=42&duration=1&pause=1000&color=F0EDE6&center=true&vCenter=true&width=700&lines=Become+who+you+are." />
 </div>
 <p align="center">
   <sub><sup>B A C K - E N D &nbsp; D E V E L O P E R</sup></sub>
