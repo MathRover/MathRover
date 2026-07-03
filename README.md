@@ -10,7 +10,7 @@
 <sub>D E V &nbsp; B A C K - E N D &nbsp; — &nbsp; L O N D R I N A &nbsp; / &nbsp; P R</sub></p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Cormorant+Garamond&style=italic&weight=300&size=18&duration=2800&pause=900&color=888888&center=true&vCenter=true&width=600&lines=マテウス;Rover;" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cormorant+Garamond&style=italic&weight=300&size=18&duration=2800&pause=900&color=888888&center=true&vCenter=true&width=600&lines=Rover." />
 </div>
 
 <br>
@@ -30,7 +30,9 @@ Meu foco está na construção de sistemas escaláveis, APIs robustas e integra�
 
 Utilizo o <strong>Visual Studio Code</strong> e o <strong>PyCharm</strong> como minhas principais ferramentas de desenvolvimento, combinando produtividade e conforto no dia a dia. Além do código, tenho um olhar atento para o design de software e a experiência do desenvolvedor, buscando criar não apenas código funcional, mas também legível e bem estruturado.
 
-Fora do editor, gosto de música, cultura japonesa e design minimalista — influências que também transparecem no meu perfil. Acredito que a tecnologia, quando bem aplicada, pode transformar ideias em experiências memoráveis.
+Fora do editor, mergulho em filosofia — especialmente Nietzsche — e encontro energia no peso do metal extremo. Slaughter to Prevail, death metal e deathcore fazem parte da minha trilha sonora diária. É desse caos controlado que tiro inspiração para criar ordem, lógica e intensidade nos meus projetos.
+
+Acredito que a tecnologia, como uma boa distorção, amplifica o que somos. Cada commit é um passo em direção ao domínio da própria existência.
 
 Sinta-se à vontade para explorar meus projetos e acompanhar minha evolução. Feedbacks e colaborações são sempre bem-vindos.
 
@@ -92,7 +94,7 @@ Sinta-se à vontade para explorar meus projetos e acompanhar minha evolução. F
 
 <div align="center">
 
-*"愛を持ってペンサールを愛してください."*
+*"Become who you are."*
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Cormorant+Garamond&weight=300&size=42&duration=3500&pause=1200&color=F0EDE6&center=true&vCenter=true&width=700&lines=MATHEUS+ROVER" />
