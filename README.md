@@ -9,12 +9,6 @@
 <p align="center">
 <sub>D E V &nbsp; B A C K - E N D &nbsp; — &nbsp; L O N D R I N A &nbsp; / &nbsp; P R</sub></p>
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Cormorant+Garamond&style=italic&weight=300&size=18&duration=1&pause=1000&color=888888&center=true&vCenter=true&width=600&lines=Rover." />
-</div>
-
-<br>
-
 <h3 align="center"><sub> 𝐒 𝐎 𝐁 𝐑 𝐄 &nbsp; 𝐌 𝐈 𝐌</sub></h3>
 
 <table align="center">
