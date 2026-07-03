@@ -3,7 +3,7 @@
 </p>
 
 <div align="center">
-  <h1 style="font-family: 'Cormorant Garamond', serif; font-weight: 300; font-size: 42px; color: #F0EDE6; margin: 0;">MATHEUS ROVER</h1>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cormorant+Garamond&weight=300&size=42&duration=1&pause=999999&color=F0EDE6&center=true&vCenter=true&width=700&lines=MATHEUS+ROVER&cursorColor=050505" />
 </div>
 
 <p align="center">
@@ -97,7 +97,7 @@ Sinta-se à vontade para explorar meus projetos e acompanhar minha evolução. F
 *"Become who you are."*
 
 <div align="center">
-  <h1 style="font-family: 'Cormorant Garamond', serif; font-weight: 300; font-size: 42px; color: #F0EDE6; margin: 0;">MATHEUS ROVER</h1>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cormorant+Garamond&weight=300&size=42&duration=1&pause=999999&color=F0EDE6&center=true&vCenter=true&width=700&lines=MATHEUS+ROVER&cursorColor=050505" />
 </div>
 <p align="center">
   <sub><sup>B A C K - E N D &nbsp; D E V E L O P E R</sup></sub>
